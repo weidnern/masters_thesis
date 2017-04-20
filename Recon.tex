@@ -1,0 +1,7 @@
+\chapter{Surface Reconstruction}\label{chap:srecon}
+\section{Overview}\label{sec:reconoverview}
+A geometrically sound point cloud gives a lot of information about the 3\hyp D structure of cave. The shape can be easily inferred, and features of the cave such as stalagmites take shape. It is also easy to see how the cave system is shaped on a large scale when longer segments are constructed such as in \ref{fig:orb}. What a point cloud lacks though is information between all of the points. This space can be either large or small depending on the how many image frames were used to build the model. These empty spaces can cause visual problems if shapes loose their definition due to lack of information. If these models were to be used for robot integration as discussed earlier, the area of these holes cannot be used for any kind of sensing information. Due to this need for additional information in our reconstructed model, surface reconstruction is used in order to fill the empty spaces. Our reconstruction problem is not unique enough to warrant a brand new surface reconstruction technique. As will be explained in section \ref{sec:reconrelwork}, a lot of work has gone into the problem of surface reconstruction. We hope to identify the best method out there for our particular problem, and build upon those results to refine our final output even more. 
+
+%The goal is a reconstruction of a full model that continuously defines the shape of the cave structure and overlays texture information to give visual definition to the shape.
+
+\input{ReconRelWork}

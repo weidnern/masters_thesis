@@ -1,0 +1,131 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {0.1}{\ignorespaces 0.1a\hbox {} Typical Scene from an underwater cave. 0.1b\hbox {} A cave diver attaching a branch line to the main line of a cave.\relax }}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{2}
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.1}{\ignorespaces An underwater image of a waterproof calibration checkerboard pattern used for camera calibration.\relax }}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Diver calibrating an underwater rig consisting of stereo cameras and an IMU.\relax }}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces A collection of good viewing angles and distances for a calibration board\relax }}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces From the same camera pose, (a) 1080p GoPro footage without the SuperView feature. (b) 1080p GoPro footage with the SuperView feature.\relax }}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.5}{\ignorespaces MATLAB Stereo Calibrator App GUI.\relax }}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Calibration results using MATLAB on underwater datasets. On the left column, results by using all the images, on the right column, results by filtering the dataset using the outlier removal method.\relax }}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Non-filtered underwater dataset without SuperView}}}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Filtered underwater dataset without SuperView}}}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Non-filtered underwater dataset with SuperView}}}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Filtered underwater dataset with SuperView}}}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Calibration results using MATLAB on above water datasets. On the left column, results by using all the images, on the right column, results by filtering the dataset using the outlier removal method.\relax }}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Non-filtered above water dataset without SuperView}}}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Filtered above water dataset without SuperView}}}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Non-filtered above water dataset with SuperView}}}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {filtered above water dataset with SuperView}}}{19}
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Left camera images of an underwater cave with different illuminations. Illumination in the cave is provided by the lights individual divers have and also from a strong video\hyp light. 2.1a\hbox {} Diver in front holds a strong video\hyp light; see how the cone of light outlines the boundaries of the cave. 2.1b\hbox {} Diver with video\hyp light follows behind the camera. 2.1c\hbox {} The diver with the camera also holds the light.\relax }}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 2.2a\hbox {} Left camera image of an underwater cave. 2.2b\hbox {} The rectified image. 2.2c\hbox {} The rectified image thresholded based on light intensity. 2.2d\hbox {} An edge map of the boundaries of the thresholded image. 2.2e\hbox {} The boundaries filtered to eliminate small contours. 2.2f\hbox {} The longer contours superimposed on the rectified image.\relax }}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Select features matched at the boundary between left and right image of a stereo pair.\relax }}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Three different reconstructions from two different angles are presented. (a-c) Present a frontal view; (d-f) present a side view. 2.4a\hbox {}, 2.4d\hbox {} Disparity map of the Fig. 2.2b\hbox {} using the the OpenCV's semi-global block matching (SGBM) stereo algorithm. 2.4b\hbox {}, 2.4e\hbox {} Applying the SGBM algorithm only to the lighted part. 2.4c\hbox {}, 2.4f\hbox {} The contour in 3\hyp D using feature matches; see Fig. 2.3\hbox {}. It is worth noting elimination of outliers makes the contours much more distinct. \relax }}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces ORB features tracked by ORB\hyp SLAM 2.\relax }}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces 2.6a\hbox {} The trajectory calculated by ORB\hyp SLAM 2 of a 7 min 28 sec traversal and the 3\hyp D points estimated from ORB features. 2.6b\hbox {} The wireframe reconstructed from the proposed stereo algorithm. Please note, the reduced number of outliers compared to 2.6a\hbox {}.\relax }}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces 2.7a\hbox {} Average error of the inter-point distance of the target; 2.7b\hbox {} Average error of the reconstructed points from the best plane fitting 3\hyp D points of the checkerboard. The results were from 4,000 images of the calibration target presented to the stereo camera underwater.\relax }}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces 2.8a\hbox {} The 3\hyp D walls of the cave extracted from a short ten second traversal. 2.8b\hbox {} A second view more inside the reconstruction.\relax }}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{31}
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 3.1a\hbox {} A point cloud segment of the ten second traversal. 3.1b\hbox {} The same segment with white normal lines protruding inwards\relax }}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Results of running Delaunay triangulation.\relax }}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 3.3a\hbox {} Ball-pivoting applied to the entire point set. 3.3b\hbox {} Applied to a 10,000 sampling. 3.3c\hbox {} Applied to 1,000 point sampling.\relax }}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{39}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces RIMLS marching cubes surface reconstruction\relax }}{40}
+\defcounter {refsection}{0}\relax 
+\addvspace {10pt}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Initial reprojection errors plotted in python\relax }}{52}

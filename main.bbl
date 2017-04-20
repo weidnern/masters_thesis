@@ -1,0 +1,2047 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{alexa2003computing}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=822945ae6b3cfe371f329d6158d9d375}{Alexa}{A\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=925a044a6f575d71a539ae5f6ad64d38}{Behr}{B\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cdf44d78713bc27a81394749a9d8bbdc}{Cohen-Or}{C\bibinithyphendelim O\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a08bc8a7b11f2345f374515291f8cf66}{Fleishman}{F\bibinitperiod}{Shachar}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=32ad21054f07b38c5fef8dcf472ca73c}{Levin}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e785ebc960b5dc257d29bc5694a252bf}{Silva}{S\bibinitperiod}{Claudio\bibnamedelima T}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=822945ae6b3cfe371f329d6158d9d375}{Alexa}{A\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=925a044a6f575d71a539ae5f6ad64d38}{Behr}{B\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cdf44d78713bc27a81394749a9d8bbdc}{Cohen-Or}{C\bibinithyphendelim O\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a08bc8a7b11f2345f374515291f8cf66}{Fleishman}{F\bibinitperiod}{Shachar}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=32ad21054f07b38c5fef8dcf472ca73c}{Levin}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e785ebc960b5dc257d29bc5694a252bf}{Silva}{S\bibinitperiod}{Claudio\bibnamedelima T}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{dbe0661d8ab3d35e40a899af565b7e36}
+      \strng{fullhash}{007ebc0294e9804ecb50fbf7bb22dde9}
+      \field{sortinit}{A}
+      \field{labeltitle}{Computing and rendering point set surfaces}
+      \field{journaltitle}{IEEE Transactions on visualization and computer graphics}
+      \field{number}{1}
+      \field{title}{Computing and rendering point set surfaces}
+      \field{volume}{9}
+      \field{year}{2003}
+      \field{pages}{3\bibrangedash 15}
+    \endentry
+    \entry{amenta2001power}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=3801643f38748f7da022ea9ed456be84}{Amenta}{A\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=771ef2b9d623774a07843a8ca0eceee9}{Choi}{C\bibinitperiod}{Sunghee}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ea04401c103d7ca320684a4e0f56402f}{Kolluri}{K\bibinitperiod}{Ravi\bibnamedelima Krishna}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=3801643f38748f7da022ea9ed456be84}{Amenta}{A\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=771ef2b9d623774a07843a8ca0eceee9}{Choi}{C\bibinitperiod}{Sunghee}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ea04401c103d7ca320684a4e0f56402f}{Kolluri}{K\bibinitperiod}{Ravi\bibnamedelima Krishna}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{ddf783785a7d782333a9468a70bfa963}
+      \strng{fullhash}{ddf783785a7d782333a9468a70bfa963}
+      \field{sortinit}{A}
+      \field{labeltitle}{The power crust}
+      \field{booktitle}{Proceedings of the sixth ACM symposium on Solid modeling and applications}
+      \field{title}{The power crust}
+      \field{year}{2001}
+      \field{pages}{249\bibrangedash 266}
+    \endentry
+    \entry{amenta2000simple}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=3801643f38748f7da022ea9ed456be84}{Amenta}{A\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=771ef2b9d623774a07843a8ca0eceee9}{Choi}{C\bibinitperiod}{Sunghee}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d2d2a296a659ed9e8de1b6bf3ab77dea}{Dey}{D\bibinitperiod}{Tamal\bibnamedelima K}{T\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=176c9457822c68d39680989c59646c3f}{Leekha}{L\bibinitperiod}{Naveen}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=3801643f38748f7da022ea9ed456be84}{Amenta}{A\bibinitperiod}{Nina}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=771ef2b9d623774a07843a8ca0eceee9}{Choi}{C\bibinitperiod}{Sunghee}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d2d2a296a659ed9e8de1b6bf3ab77dea}{Dey}{D\bibinitperiod}{Tamal\bibnamedelima K}{T\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=176c9457822c68d39680989c59646c3f}{Leekha}{L\bibinitperiod}{Naveen}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b35cdf80bd36fb61978a5c2c259d0495}
+      \strng{fullhash}{d1295ea689c30eb3dababb130ea7d7e4}
+      \field{sortinit}{A}
+      \field{labeltitle}{A simple algorithm for homeomorphic surface reconstruction}
+      \field{booktitle}{Proceedings of the sixteenth annual symposium on Computational geometry}
+      \field{title}{A simple algorithm for homeomorphic surface reconstruction}
+      \field{year}{2000}
+      \field{pages}{213\bibrangedash 222}
+    \endentry
+    \entry{balletti2014calibration}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=ca17503485a608f456369e475c30ede0}{Balletti}{B\bibinitperiod}{Caterina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=ab53ea3c016d73d0c6d8d017f93326ab}{Guerra}{G\bibinitperiod}{Francesco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=be005d736317f4c6f73bb9af7b38c24e}{Tsioukas}{T\bibinitperiod}{Vassilios}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=8108f11241933e133cf81ae2cb4720de}{Vernier}{V\bibinitperiod}{Paolo}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ca17503485a608f456369e475c30ede0}{Balletti}{B\bibinitperiod}{Caterina}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=ab53ea3c016d73d0c6d8d017f93326ab}{Guerra}{G\bibinitperiod}{Francesco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=be005d736317f4c6f73bb9af7b38c24e}{Tsioukas}{T\bibinitperiod}{Vassilios}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=8108f11241933e133cf81ae2cb4720de}{Vernier}{V\bibinitperiod}{Paolo}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{df3cd0a43071ee37e6e0de9b87f4edd4}
+      \strng{fullhash}{d88994780da7da478bcdfa5b8a4494b7}
+      \field{sortinit}{B}
+      \field{labeltitle}{Calibration of action cameras for photogrammetric purposes}
+      \field{journaltitle}{Sensors}
+      \field{number}{9}
+      \field{title}{Calibration of action cameras for photogrammetric purposes}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{17471\bibrangedash 17490}
+    \endentry
+    \entry{Surf}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=f29476d21dba36576a275921245f7b52}{Bay}{B\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=753814c3f9309c9b72b11f4f61130bdb}{Tuytelaars}{T\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=26815aa48c753194f0f2f368a61242fb}{Gool}{G\bibinitperiod}{L.\bibnamedelimi Van}{L\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f29476d21dba36576a275921245f7b52}{Bay}{B\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=753814c3f9309c9b72b11f4f61130bdb}{Tuytelaars}{T\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=26815aa48c753194f0f2f368a61242fb}{Gool}{G\bibinitperiod}{L.\bibnamedelimi Van}{L\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c76676df3887f82d803194dbb88fb722}
+      \strng{fullhash}{c76676df3887f82d803194dbb88fb722}
+      \field{sortinit}{B}
+      \field{labeltitle}{{SURF}: Speeded up robust features}
+      \field{booktitle}{European Conference on Computer Vision}
+      \field{title}{{SURF}: Speeded up robust features}
+      \field{year}{2006}
+      \field{pages}{404\bibrangedash 417}
+    \endentry
+    \entry{817351}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=3b182ddbd288fb7bc0f55f145b85058b}{Bernardini}{B\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d3aca25887f1f08d5799a66259899e3c}{Mittleman}{M\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ca68cba81e39367f3e0cecdea8935833}{Rushmeier}{R\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=3bcde11e864ce0f9d6a8f9762254de10}{Silva}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d07eee7cf1ac349de6f3ec620401cfbf}{Taubin}{T\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=3b182ddbd288fb7bc0f55f145b85058b}{Bernardini}{B\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=d3aca25887f1f08d5799a66259899e3c}{Mittleman}{M\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ca68cba81e39367f3e0cecdea8935833}{Rushmeier}{R\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=3bcde11e864ce0f9d6a8f9762254de10}{Silva}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d07eee7cf1ac349de6f3ec620401cfbf}{Taubin}{T\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f3f8e5f1536cfce959329228d51218ba}
+      \strng{fullhash}{99f4e31610ec58b17b31165980988f48}
+      \field{sortinit}{B}
+      \field{labeltitle}{The ball-pivoting algorithm for surface reconstruction}
+      \field{issn}{1077-2626}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{The ball-pivoting algorithm for surface reconstruction}
+      \field{volume}{5}
+      \field{year}{1999}
+      \field{pages}{349\bibrangedash 359}
+      \verb{doi}
+      \verb 10.1109/2945.817351
+      \endverb
+      \keyw{computational geometry;image reconstruction;mesh generation;ball-pivoting algorithm;seed triangle;surface reconstruction;surface samples;triangle mesh;Data acquisition;Geometrical optics;Image reconstruction;Product design;Sampling methods;Shape;Surface reconstruction;Three-dimensional displays}
+    \endentry
+    \entry{Brandou2007}{inproceedings}{}
+      \name{labelname}{7}{}{%
+        {{hash=cd088a06339aaa7d2b8a22b842bdf01c}{Brandou}{B\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=fd6bac643e2982e86cbe4748724e841e}{Allais}{A\bibinitperiod}{A.\bibnamedelimi G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=918d72b64b3a58e4ceecabf91a537b82}{Perrier}{P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3e79f134c391e273ad62fe6719c76eb2}{Malis}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=533e8ca1cbdd0d3eb7a66b3d397424ea}{Rives}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ee2a831fca7e89e493d74609c0992b10}{Sarrazin}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9bdc07dbaf2e463400b004ebd88a9e02}{Sarradin}{S\bibinitperiod}{P.\bibnamedelimi M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=cd088a06339aaa7d2b8a22b842bdf01c}{Brandou}{B\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=fd6bac643e2982e86cbe4748724e841e}{Allais}{A\bibinitperiod}{A.\bibnamedelimi G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=918d72b64b3a58e4ceecabf91a537b82}{Perrier}{P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3e79f134c391e273ad62fe6719c76eb2}{Malis}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=533e8ca1cbdd0d3eb7a66b3d397424ea}{Rives}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=ee2a831fca7e89e493d74609c0992b10}{Sarrazin}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=9bdc07dbaf2e463400b004ebd88a9e02}{Sarradin}{S\bibinitperiod}{P.\bibnamedelimi M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c5c0b9b873d0e196246f01e7bd998c32}
+      \strng{fullhash}{da1727d233ab9c5e9cf673d2ffae3b25}
+      \field{sortinit}{B}
+      \field{labeltitle}{3-D Reconstruction of Natural Underwater Scenes Using the Stereovision System IRIS}
+      \field{booktitle}{OCEANS 2007 - Europe}
+      \field{month}{06}
+      \field{title}{3-D Reconstruction of Natural Underwater Scenes Using the Stereovision System IRIS}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 6}
+      \verb{doi}
+      \verb 10.1109/OCEANSE.2007.4302315
+      \endverb
+      \keyw{data acquisition;geophysical signal processing;image reconstruction;oceanographic techniques;stereo image processing;3D reconstruction method;IRIS stereovision system;image acquisition method;natural underwater scene;quantitative measurements;Cameras;Ecosystems;Geometry;Image reconstruction;Iris;Layout;Robot vision systems;Sea measurements;Underwater vehicles;Visual servoing;3D reconstruction;Underwater imaging;dense disparity map;stereovision system;visual servoing}
+    \endentry
+    \entry{Brown1971}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=948c2233935e9f7389884763394f2452}{Brown}{B\bibinitperiod}{D.\bibnamedelimi C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=948c2233935e9f7389884763394f2452}{Brown}{B\bibinitperiod}{D.\bibnamedelimi C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{948c2233935e9f7389884763394f2452}
+      \strng{fullhash}{948c2233935e9f7389884763394f2452}
+      \field{sortinit}{B}
+      \field{labeltitle}{Close-range camera calibration}
+      \field{journaltitle}{Photogrammetric Engineering}
+      \field{number}{8}
+      \field{title}{Close-range camera calibration}
+      \field{volume}{37}
+      \field{year}{1971}
+      \field{pages}{855\bibrangedash 866}
+    \endentry
+    \entry{Brown1966}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=85aa88c8b8d99c50349ad0b90ce22039}{Brown}{B\bibinitperiod}{D.C.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=85aa88c8b8d99c50349ad0b90ce22039}{Brown}{B\bibinitperiod}{D.C.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{85aa88c8b8d99c50349ad0b90ce22039}
+      \strng{fullhash}{85aa88c8b8d99c50349ad0b90ce22039}
+      \field{sortinit}{B}
+      \field{labeltitle}{Decentering Distortion of Lenses}
+      \field{journaltitle}{Photogrammetric Engineering}
+      \field{number}{3}
+      \field{title}{Decentering Distortion of Lenses}
+      \field{volume}{32}
+      \field{year}{1966}
+      \field{pages}{444\bibrangedash 462}
+    \endentry
+    \entry{WKPP}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=5487bcd1d1728fbd57cbea239b0fd903}{{C.\bibnamedelimi McKinlay}}{C\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5487bcd1d1728fbd57cbea239b0fd903}{{C.\bibnamedelimi McKinlay}}{C\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{5487bcd1d1728fbd57cbea239b0fd903}
+      \strng{fullhash}{5487bcd1d1728fbd57cbea239b0fd903}
+      \field{sortinit}{C}
+      \field{labeltitle}{{Woodville Karst Plain Project (WKPP)}}
+      \field{howpublished}{{URL:}\url{http://www.wkpp.org}}
+      \field{month}{04}
+      \field{title}{{Woodville Karst Plain Project (WKPP)}}
+      \field{year}{2015}
+    \endentry
+    \entry{campos2014surface}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=eb3b8de6a971f8aa44d9917b2d384838}{Campos}{C\bibinitperiod}{Ricard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5a41513f72cfe8224163441d30854e41}{Alliez}{A\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=42b95ae9fcd0dc876867dbc27f6f5096}{Yvinec}{Y\bibinitperiod}{Mariette}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=eb3b8de6a971f8aa44d9917b2d384838}{Campos}{C\bibinitperiod}{Ricard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5a41513f72cfe8224163441d30854e41}{Alliez}{A\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=42b95ae9fcd0dc876867dbc27f6f5096}{Yvinec}{Y\bibinitperiod}{Mariette}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{3513bb002406fbdb09c3bf9d63f5cc0e}
+      \strng{fullhash}{0f8cca3adb5c2166ae1d35cdffc95497}
+      \field{sortinit}{C}
+      \field{labeltitle}{A surface reconstruction method for in-detail underwater 3D optical mapping}
+      \field{journaltitle}{The International Journal of Robotics Research}
+      \field{title}{A surface reconstruction method for in-detail underwater 3D optical mapping}
+      \field{year}{2014}
+      \field{pages}{0278364914544531}
+    \endentry
+    \entry{canny1986computational}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=fa344b67077711bfaa0525254de2977a}{Canny}{C\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=fa344b67077711bfaa0525254de2977a}{Canny}{C\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{fa344b67077711bfaa0525254de2977a}
+      \strng{fullhash}{fa344b67077711bfaa0525254de2977a}
+      \field{sortinit}{C}
+      \field{labeltitle}{A computational approach to edge detection}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{6}
+      \field{title}{A computational approach to edge detection}
+      \field{year}{1986}
+      \field{pages}{679\bibrangedash 698}
+    \endentry
+    \entry{Conrady1919}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2a79293557b7777498b25320f166c853}{Conrady}{C\bibinitperiod}{A.\bibnamedelimi E.}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2a79293557b7777498b25320f166c853}{Conrady}{C\bibinitperiod}{A.\bibnamedelimi E.}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2a79293557b7777498b25320f166c853}
+      \strng{fullhash}{2a79293557b7777498b25320f166c853}
+      \field{sortinit}{C}
+      \field{labeltitle}{Lens-systems, decentered}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{title}{Lens-systems, decentered}
+      \field{volume}{79}
+      \field{year}{1919}
+      \field{pages}{384\bibrangedash 390}
+    \endentry
+    \entry{corke2007experiments}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=c0e503339314930d140b67b5e7c55c3e}{Corke}{C\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1bd19ef9f26025f1169bdda3d98aae}{Detweiler}{D\bibinitperiod}{Carrick}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c3cb8f75c88d97488866dd94645b33b4}{Dunbabin}{D\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9e2d5c221f6d2cda6fdf369926daf18d}{Hamilton}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f74192f92945701041a41bfa429ee111}{Rus}{R\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=39560be1a5d244269b086c13b59f68f9}{Vasilescu}{V\bibinitperiod}{Iuliu}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=c0e503339314930d140b67b5e7c55c3e}{Corke}{C\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0e1bd19ef9f26025f1169bdda3d98aae}{Detweiler}{D\bibinitperiod}{Carrick}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c3cb8f75c88d97488866dd94645b33b4}{Dunbabin}{D\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9e2d5c221f6d2cda6fdf369926daf18d}{Hamilton}{H\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f74192f92945701041a41bfa429ee111}{Rus}{R\bibinitperiod}{Daniela}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=39560be1a5d244269b086c13b59f68f9}{Vasilescu}{V\bibinitperiod}{Iuliu}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e205d8d0b1c867856ff22150cf6334d9}
+      \strng{fullhash}{95e3b7e5bee4916238e04dc37b6312ba}
+      \field{sortinit}{C}
+      \field{labeltitle}{Experiments with underwater robot localization and tracking}
+      \field{booktitle}{Proc. IEEE Int. Conf. on Robotics and Automation}
+      \field{title}{Experiments with underwater robot localization and tracking}
+      \field{year}{2007}
+      \field{pages}{4556\bibrangedash 4561}
+    \endentry
+    \entry{Corke}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=5cd522f18cd243c5f73ed821904c1f99}{Corke}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=68f6f7cd465268746478011cc79f9d1a}{Detweiler}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=93952bf1d6018a80603fcc9efef8e553}{Dunbabin}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1f2de855f00d4585b6d5c08b4cc11c9d}{Hamilton}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=fe12cbdb5a4a54fed228e66909ead7f0}{Rus}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=3b89ea04c9e78eeed7da4bf0f7a17603}{Vasilescu}{V\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=5cd522f18cd243c5f73ed821904c1f99}{Corke}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=68f6f7cd465268746478011cc79f9d1a}{Detweiler}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=93952bf1d6018a80603fcc9efef8e553}{Dunbabin}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1f2de855f00d4585b6d5c08b4cc11c9d}{Hamilton}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=fe12cbdb5a4a54fed228e66909ead7f0}{Rus}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=3b89ea04c9e78eeed7da4bf0f7a17603}{Vasilescu}{V\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{98abfbb3f67d65ed52368748c210285c}
+      \strng{fullhash}{6701e68a5ba3397cbe4f0347c225d56e}
+      \field{sortinit}{C}
+      \field{labeltitle}{Experiments with Underwater Robot Localization and Tracking}
+      \field{booktitle}{Proc. of IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{title}{Experiments with Underwater Robot Localization and Tracking}
+      \field{year}{2007}
+      \field{pages}{4556\bibrangedash 4561}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1109/ROBOT.2007.364181
+      \endverb
+    \endentry
+    \entry{corsini2012efficient}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=113d8162f21e0064dd36738ac0edef56}{Corsini}{C\bibinitperiod}{Massimiliano}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f46ccc85a35167be1e3f2bd43fa938ba}{Cignoni}{C\bibinitperiod}{Paolo}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=bd0a19a23989253026f01f1f31006baf}{Scopigno}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=113d8162f21e0064dd36738ac0edef56}{Corsini}{C\bibinitperiod}{Massimiliano}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f46ccc85a35167be1e3f2bd43fa938ba}{Cignoni}{C\bibinitperiod}{Paolo}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=bd0a19a23989253026f01f1f31006baf}{Scopigno}{S\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{00f0f53f4846bd82d33840bad106f29d}
+      \strng{fullhash}{00f0f53f4846bd82d33840bad106f29d}
+      \field{sortinit}{C}
+      \field{labeltitle}{Efficient and flexible sampling with blue noise properties of triangular meshes}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{6}
+      \field{title}{Efficient and flexible sampling with blue noise properties of triangular meshes}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{pages}{914\bibrangedash 924}
+    \endentry
+    \entry{da2009visual}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=795523d0fd4006d081a45ed2402f0737}{Costa\bibnamedelima Botelho}{C\bibinitperiod\bibinitdelim B\bibinitperiod}{S.\bibnamedelimi S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{da}{d\bibinitperiod}{}{}}%
+        {{hash=9dc3f4b85251694d3f2b3dcaf98a179c}{Drews}{D\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=3e6b7b50c4bcd21dbecd8b4669fe7ffd}{Oliveira}{O\bibinitperiod}{G.\bibnamedelimi L.}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ee7b8a80e25f9b67dc8f5fcaa5383d17}{Silva\bibnamedelima Figueiredo}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{M.}{M\bibinitperiod}{da}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=795523d0fd4006d081a45ed2402f0737}{Costa\bibnamedelima Botelho}{C\bibinitperiod\bibinitdelim B\bibinitperiod}{S.\bibnamedelimi S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{da}{d\bibinitperiod}{}{}}%
+        {{hash=9dc3f4b85251694d3f2b3dcaf98a179c}{Drews}{D\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=3e6b7b50c4bcd21dbecd8b4669fe7ffd}{Oliveira}{O\bibinitperiod}{G.\bibnamedelimi L.}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ee7b8a80e25f9b67dc8f5fcaa5383d17}{Silva\bibnamedelima Figueiredo}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{M.}{M\bibinitperiod}{da}{d\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{04057f0de6cb1eb80d354766315eaabc}
+      \strng{fullhash}{745782f6de7b3561fe1a31d1bdc91b81}
+      \field{sortinit}{C}
+      \field{labeltitle}{Visual odometry and mapping for underwater autonomous vehicles}
+      \field{booktitle}{6th Latin American Robotics Symposium (LARS)}
+      \field{title}{Visual odometry and mapping for underwater autonomous vehicles}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 6}
+    \endentry
+    \entry{Daum1998}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=a2ec905f65319a6f603d08876d3ccdc5}{Daum}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bbeb90d35d74857afa6c713c356fb54a}{Dudek}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a2ec905f65319a6f603d08876d3ccdc5}{Daum}{D\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bbeb90d35d74857afa6c713c356fb54a}{Dudek}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Los Angeles, CA}%
+      }
+      \strng{namehash}{331030dc5caddd55303a92c0bb95ac2b}
+      \strng{fullhash}{331030dc5caddd55303a92c0bb95ac2b}
+      \field{sortinit}{D}
+      \field{labeltitle}{{On 3-D Surface Reconstruction Using Shape from Shadows}}
+      \field{booktitle}{Proc. IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{month}{06}
+      \field{title}{{On 3-D Surface Reconstruction Using Shape from Shadows}}
+      \field{year}{1998}
+      \field{pages}{461\bibrangedash 468}
+    \endentry
+    \entry{raey}{incollection}{}
+      \name{labelname}{3}{}{%
+        {{hash=105f32574a19425c80138198b0b09cd5}{Engel}{E\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=749702ba05d93840a6ac656ff6c203e9}{Schops}{S\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1bd2b6b6ca2fc15a90f164070b626131}{Cremers}{C\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=105f32574a19425c80138198b0b09cd5}{Engel}{E\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=749702ba05d93840a6ac656ff6c203e9}{Schops}{S\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1bd2b6b6ca2fc15a90f164070b626131}{Cremers}{C\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=20dd854bf43e36b30fad83cfc8f6f82f}{Fleet}{F\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=21cb8f0ea71a40b8c21089db55b35c44}{Pajdla}{P\bibinitperiod}{Tomas}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=457dd3049a60059cf69e775a47f0c154}{Schiele}{S\bibinitperiod}{Bernt}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=1fffde1e018446dc52c3da9c6e26ec11}{Tuytelaars}{T\bibinitperiod}{Tinne}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{4f4bdfd9179d79abc0a53c1a52d8e056}
+      \strng{fullhash}{4f4bdfd9179d79abc0a53c1a52d8e056}
+      \field{sortinit}{E}
+      \field{labeltitle}{LSD-SLAM: Large-Scale Direct Monocular SLAM}
+      \field{abstract}{We propose a direct (feature-less) monocular SLAM algorithm which, in contrast to current state-of-the-art regarding direct methods, allows to build large-scale, consistent maps of the environment. Along with highly accurate pose estimation based on direct image alignment, the 3D environment is reconstructed in real-time as pose-graph of keyframes with associated semi-dense depth maps. These are obtained by filtering over a large number of pixelwise small-baseline stereo comparisons. The explicitly scale-drift aware formulation allows the approach to operate on challenging sequences including large variations in scene scale. Major enablers are two key novelties: (1) a novel direct tracking method which operates on sim(3), thereby explicitly detecting scale-drift, and (2) an elegant probabilistic solution to include the effect of noisy depth values into tracking. The resulting direct monocular SLAM system runs in real-time on a CPU.}
+      \field{booktitle}{European Conference on Computer Vision (ECCV)}
+      \field{isbn}{978-3-319-10604-5}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{LSD-SLAM: Large-Scale Direct Monocular SLAM}
+      \field{volume}{8690}
+      \field{year}{2014}
+      \field{pages}{834\bibrangedash 849}
+    \endentry
+    \entry{Englot2013}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4ce2bc4e733d3cecdb11adb83d879876}{Englot}{E\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=c0bfb1155dad49c680da99b07a657ab9}{Hover}{H\bibinitperiod}{F.\bibnamedelimi S.}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4ce2bc4e733d3cecdb11adb83d879876}{Englot}{E\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=c0bfb1155dad49c680da99b07a657ab9}{Hover}{H\bibinitperiod}{F.\bibnamedelimi S.}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2c86dfd7260fdd2cf944636d2d27f25e}
+      \strng{fullhash}{2c86dfd7260fdd2cf944636d2d27f25e}
+      \field{sortinit}{E}
+      \field{labeltitle}{{Three-dimensional coverage planning for an underwater inspection robot}}
+      \field{abstract}{To support autonomous, in-water inspection of a ship hull, we propose and implement new techniques for coverage path planning over complex 3D structures. Our main contribution is a comprehensive methodology for sampling-based design of inspection routes, including an algorithm for planning, an algorithm for smoothing, and an analysis of probabilistic completeness. The latter two outcomes are the first of their kind in the area of coverage planning. Our algorithms give high-quality solutions over expansive structures, and we demonstrate this with experiments in the laboratory and on a 75 m Coast Guard cutter.}
+      \field{issn}{0278-3649}
+      \field{journaltitle}{The International Journal of Robotics Research}
+      \field{month}{09}
+      \field{number}{9-10}
+      \field{title}{{Three-dimensional coverage planning for an underwater inspection robot}}
+      \field{volume}{32}
+      \field{year}{2013}
+      \field{pages}{1048\bibrangedash 1073}
+      \verb{doi}
+      \verb 10.1177/0278364913490046
+      \endverb
+      \verb{file}
+      \verb :Users/yiannis/Library/Application Support/Mendeley Desktop/Downloaded/Englot, Hover - 2013 - Three-dimensional coverage planning for an underwater inspection robot.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://ijr.sagepub.com/content/32/9-10/1048.refs
+      \endverb
+    \endentry
+    \entry{Eustice2006}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=0be8bc0bc01d05d85acbb7efd0d60c9f}{Eustice}{E\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=48494815a858998e12dff34e76aef759}{Singh}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=cbeb1746c3d3ea1af2dbb7b6d488e714}{Leonard}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b3142a0cb4551774937606fc1e78a787}{Walter}{W\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=0be8bc0bc01d05d85acbb7efd0d60c9f}{Eustice}{E\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=48494815a858998e12dff34e76aef759}{Singh}{S\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=cbeb1746c3d3ea1af2dbb7b6d488e714}{Leonard}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b3142a0cb4551774937606fc1e78a787}{Walter}{W\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7c2aa69254c387acb638e646c53d72d1}
+      \strng{fullhash}{8950b455c1b37e7da2e5d7ecf1628eb3}
+      \field{sortinit}{E}
+      \field{labeltitle}{Visually Mapping the RMS Titanic: Conservative Covariance Estimates for SLAM Information Filters}
+      \field{journaltitle}{International Journal of Robotics Research}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Visually Mapping the RMS Titanic: Conservative Covariance Estimates for SLAM Information Filters}
+      \field{volume}{25}
+      \field{year}{2006}
+      \field{pages}{1223\bibrangedash 1242}
+    \endentry
+    \entry{Ford1994}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=a19c883064833eaa4aa7735730c6b88b}{Ford}{F\bibinitperiod}{D.\bibnamedelimi C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d8aef818b67f874bc40ae57f1d18ba54}{Williams}{W\bibinitperiod}{P.\bibnamedelimi W.}{P\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a19c883064833eaa4aa7735730c6b88b}{Ford}{F\bibinitperiod}{D.\bibnamedelimi C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d8aef818b67f874bc40ae57f1d18ba54}{Williams}{W\bibinitperiod}{P.\bibnamedelimi W.}{P\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Chapman \& Hall}%
+      }
+      \strng{namehash}{33a7c3a1ad3fc7e68952e84f911b1e40}
+      \strng{fullhash}{33a7c3a1ad3fc7e68952e84f911b1e40}
+      \field{sortinit}{F}
+      \field{labeltitle}{{Karst Geomorphology and Hydrology}}
+      \field{title}{{Karst Geomorphology and Hydrology}}
+      \field{year}{1994}
+    \endentry
+    \entry{forster2014svo}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=a6b6e778fcd0ba37d9fef8a433471203}{Forster}{F\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9d76407df0d2dd4b86058fe49ca9ef08}{Pizzoli}{P\bibinitperiod}{Matia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=dac21ab4ede215439fcc6b051be53a11}{Scaramuzza}{S\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=a6b6e778fcd0ba37d9fef8a433471203}{Forster}{F\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9d76407df0d2dd4b86058fe49ca9ef08}{Pizzoli}{P\bibinitperiod}{Matia}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=dac21ab4ede215439fcc6b051be53a11}{Scaramuzza}{S\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3b8f8e8a2f250532f1fffa3fd8cde56c}
+      \strng{fullhash}{3b8f8e8a2f250532f1fffa3fd8cde56c}
+      \field{sortinit}{F}
+      \field{labeltitle}{{SVO: Fast semi-direct monocular visual odometry}}
+      \field{booktitle}{IEEE Int. Conf. on Robotics and Automation}
+      \field{title}{{SVO: Fast semi-direct monocular visual odometry}}
+      \field{year}{2014}
+      \field{pages}{15\bibrangedash 22}
+    \endentry
+    \entry{Brown1986}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d5efe17262abe44cee88e3360714f61b}{Fryer}{F\bibinitperiod}{J.G.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=85aa88c8b8d99c50349ad0b90ce22039}{Brown}{B\bibinitperiod}{D.C.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d5efe17262abe44cee88e3360714f61b}{Fryer}{F\bibinitperiod}{J.G.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=85aa88c8b8d99c50349ad0b90ce22039}{Brown}{B\bibinitperiod}{D.C.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{332b1bdc96592171c846b035892e5f5f}
+      \strng{fullhash}{332b1bdc96592171c846b035892e5f5f}
+      \field{sortinit}{F}
+      \field{labeltitle}{Lens Distortion for Close-Range Photogrammetry}
+      \field{journaltitle}{Photogrammetric Engineering and Remote Sensing}
+      \field{number}{1}
+      \field{title}{Lens Distortion for Close-Range Photogrammetry}
+      \field{volume}{52}
+      \field{year}{1986}
+      \field{pages}{51\bibrangedash 58}
+    \endentry
+    \entry{gary20083d}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25c491b66c2c21f108b9704882763e3f}{Gary}{G\bibinitperiod}{Marcus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a3478e14a61922e965a12841b83bff2e}{Fairfield}{F\bibinitperiod}{Nathaniel}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=3a5b71012e34264db4a2d490ca4f12a4}{Stone}{S\bibinitperiod}{William\bibnamedelima C}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=0ea75d5c6dc53ec86bfdda603becc235}{Wettergreen}{W\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ae96236f49907a066f3665c11b5369d6}{Kantor}{K\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e733ba49c736b9f0f30213974eafc209}{Sharp\bibnamedelima Jr}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{John\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25c491b66c2c21f108b9704882763e3f}{Gary}{G\bibinitperiod}{Marcus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a3478e14a61922e965a12841b83bff2e}{Fairfield}{F\bibinitperiod}{Nathaniel}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=3a5b71012e34264db4a2d490ca4f12a4}{Stone}{S\bibinitperiod}{William\bibnamedelima C}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=0ea75d5c6dc53ec86bfdda603becc235}{Wettergreen}{W\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ae96236f49907a066f3665c11b5369d6}{Kantor}{K\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=e733ba49c736b9f0f30213974eafc209}{Sharp\bibnamedelima Jr}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{John\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6f2e385c454395b97bd921e2aae77bde}
+      \strng{fullhash}{2bcd79a6edf29a2f6a6de279a6f34275}
+      \field{sortinit}{G}
+      \field{labeltitle}{3D mapping and characterization of sistema Zacat{\'o}n from DEPTHX (DEep Phreatic THermal eXplorer)}
+      \field{booktitle}{Proc. of KARST08: 11th Sinkhole Conference ASCE}
+      \field{title}{3D mapping and characterization of sistema Zacat{\'o}n from DEPTHX (DEep Phreatic THermal eXplorer)}
+      \field{year}{2008}
+    \endentry
+    \entry{Gray2003}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1685311eadb5fa492f88ebef6a30a56a}{Gray}{G\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1685311eadb5fa492f88ebef6a30a56a}{Gray}{G\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Leo Cooper}%
+      }
+      \strng{namehash}{1685311eadb5fa492f88ebef6a30a56a}
+      \strng{fullhash}{1685311eadb5fa492f88ebef6a30a56a}
+      \field{sortinit}{G}
+      \field{labeltitle}{Disasters of the Deep: A Comprehensive Survey of Submarine Accidents and Disasters}
+      \field{title}{Disasters of the Deep: A Comprehensive Survey of Submarine Accidents and Disasters}
+      \field{year}{2003}
+    \endentry
+    \entry{guennebaud2008dynamic}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=f8ec37ccc7c2081cc8fa74690ac0fe8f}{Guennebaud}{G\bibinitperiod}{Ga{\"e}l}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=3f9bd8d240df5ca57d7d23dee5ac6cad}{Germann}{G\bibinitperiod}{Marcel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=89835485884945e38712de8162277435}{Gross}{G\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f8ec37ccc7c2081cc8fa74690ac0fe8f}{Guennebaud}{G\bibinitperiod}{Ga{\"e}l}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=3f9bd8d240df5ca57d7d23dee5ac6cad}{Germann}{G\bibinitperiod}{Marcel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=89835485884945e38712de8162277435}{Gross}{G\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{1a7bff0a9338b264465221637cf15fc1}
+      \strng{fullhash}{1a7bff0a9338b264465221637cf15fc1}
+      \field{sortinit}{G}
+      \field{labeltitle}{Dynamic sampling and rendering of algebraic point set surfaces}
+      \field{booktitle}{Computer Graphics Forum}
+      \field{number}{2}
+      \field{title}{Dynamic sampling and rendering of algebraic point set surfaces}
+      \field{volume}{27}
+      \field{year}{2008}
+      \field{pages}{653\bibrangedash 662}
+    \endentry
+    \entry{guennebaud2007algebraic}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=f8ec37ccc7c2081cc8fa74690ac0fe8f}{Guennebaud}{G\bibinitperiod}{Ga{\"e}l}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=89835485884945e38712de8162277435}{Gross}{G\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f8ec37ccc7c2081cc8fa74690ac0fe8f}{Guennebaud}{G\bibinitperiod}{Ga{\"e}l}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=89835485884945e38712de8162277435}{Gross}{G\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{8a75208d8cc4fb010a956d7e8f049784}
+      \strng{fullhash}{8a75208d8cc4fb010a956d7e8f049784}
+      \field{sortinit}{G}
+      \field{labeltitle}{Algebraic point set surfaces}
+      \field{booktitle}{ACM Transactions on Graphics (TOG)}
+      \field{number}{3}
+      \field{title}{Algebraic point set surfaces}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{23}
+    \endentry
+    \entry{WKPP1}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=6666337e5c90b81a76fc659881b28783}{Gulden}{G\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6666337e5c90b81a76fc659881b28783}{Gulden}{G\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {National Speleological Society ({NSS})}%
+      }
+      \strng{namehash}{6666337e5c90b81a76fc659881b28783}
+      \strng{fullhash}{6666337e5c90b81a76fc659881b28783}
+      \field{sortinit}{G}
+      \field{labeltitle}{WORLD LONGEST UNDERWATER CAVES}
+      \field{howpublished}{{URL:}\url{http://www.caverbob.com/uwcaves.htm}}
+      \field{month}{04}
+      \field{title}{WORLD LONGEST UNDERWATER CAVES}
+      \field{year}{2015}
+    \endentry
+    \entry{Silven1997}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=b795b6acd5bf3b2c1db274ecacb97ef4}{Hiekkil}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dcf7e834eaee314595a9e9d748331960}{Silven}{S\bibinitperiod}{O.}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b795b6acd5bf3b2c1db274ecacb97ef4}{Hiekkil}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dcf7e834eaee314595a9e9d748331960}{Silven}{S\bibinitperiod}{O.}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6bc241baa8ade178543e2160e119b330}
+      \strng{fullhash}{6bc241baa8ade178543e2160e119b330}
+      \field{sortinit}{H}
+      \field{labeltitle}{A Four-step Camera Calibration Procedure with Implicit Image Correction}
+      \field{title}{A Four-step Camera Calibration Procedure with Implicit Image Correction}
+      \field{year}{1997}
+    \endentry
+    \entry{hirschmuller2008stereo}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=6bba28394b69d5d4e93c452e4467adc2}{Hirschm{\"u}ller}{H\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6bba28394b69d5d4e93c452e4467adc2}{Hirschm{\"u}ller}{H\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6bba28394b69d5d4e93c452e4467adc2}
+      \strng{fullhash}{6bba28394b69d5d4e93c452e4467adc2}
+      \field{sortinit}{H}
+      \field{labeltitle}{Stereo processing by semiglobal matching and mutual information}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{2}
+      \field{title}{Stereo processing by semiglobal matching and mutual information}
+      \field{volume}{30}
+      \field{year}{2008}
+      \field{pages}{328\bibrangedash 341}
+    \endentry
+    \entry{Hogue2007}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=bd3d65de9de5200548a8c29985cbd659}{Hogue}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2426bd5d39b166e82a9ad010ec2fcbfd}{German}{G\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=20081c37bc1c0e4d0ea8ab4537d0d884}{Jenkin}{J\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=bd3d65de9de5200548a8c29985cbd659}{Hogue}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2426bd5d39b166e82a9ad010ec2fcbfd}{German}{G\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=20081c37bc1c0e4d0ea8ab4537d0d884}{Jenkin}{J\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{af70ed7035f6f332d6a625900c676886}
+      \strng{fullhash}{af70ed7035f6f332d6a625900c676886}
+      \field{sortinit}{H}
+      \field{labeltitle}{Underwater environment reconstruction using stereo and inertial data}
+      \field{booktitle}{IEEE International Conference on Systems, Man and Cybernetics, {ISIC}}
+      \field{month}{10}
+      \field{title}{Underwater environment reconstruction using stereo and inertial data}
+      \field{year}{2007}
+      \field{pages}{2372\bibrangedash 2377}
+      \verb{doi}
+      \verb 10.1109/ICSMC.2007.4413666
+      \endverb
+      \keyw{feature extraction;image reconstruction;image representation;robot vision;stereo image processing;3DOF inertial sensor;point cloud model;robotic sensors;stereo vision-inertial sensing device;textured polygonal mesh extraction;underwater environment reconstruction;volumetric representation;Inspection;Layout;Monitoring;Pollution measurement;Robot sensing systems;Robot vision systems;Size measurement;Stereo vision;Temperature sensors;Video recording}
+    \endentry
+    \entry{Hoppe:1995:SRU:221616}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=90fd9beea1c9006d7768540fc1fe8e40}{Hoppe}{H\bibinitperiod}{Hugues}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=90fd9beea1c9006d7768540fc1fe8e40}{Hoppe}{H\bibinitperiod}{Hugues}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, WA, USA}%
+      }
+      \list{publisher}{1}{%
+        {University of Washington}%
+      }
+      \strng{namehash}{90fd9beea1c9006d7768540fc1fe8e40}
+      \strng{fullhash}{90fd9beea1c9006d7768540fc1fe8e40}
+      \field{sortinit}{H}
+      \field{labeltitle}{Surface Reconstruction from Unorganized Points}
+      \field{note}{UMI Order No. GAX95-04632}
+      \field{title}{Surface Reconstruction from Unorganized Points}
+      \field{type}{phdthesis}
+      \field{year}{1995}
+    \endentry
+    \entry{Hoppe:1992:SRU:133994.134011}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=90fd9beea1c9006d7768540fc1fe8e40}{Hoppe}{H\bibinitperiod}{Hugues}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=20c3b5197858617570fca614e816034f}{DeRose}{D\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=a854fe3d5401ab23a8c7ecd40e67ef02}{Duchamp}{D\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b08766bf0bcdef8394d7eff0bf09e1f7}{McDonald}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=78839a6a63ee6d2680ebc15a3ef7fc58}{Stuetzle}{S\bibinitperiod}{Werner}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=90fd9beea1c9006d7768540fc1fe8e40}{Hoppe}{H\bibinitperiod}{Hugues}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=20c3b5197858617570fca614e816034f}{DeRose}{D\bibinitperiod}{Tony}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=a854fe3d5401ab23a8c7ecd40e67ef02}{Duchamp}{D\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b08766bf0bcdef8394d7eff0bf09e1f7}{McDonald}{M\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=78839a6a63ee6d2680ebc15a3ef7fc58}{Stuetzle}{S\bibinitperiod}{Werner}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{1b842f0bff668f1f2d991a8d76b9070c}
+      \strng{fullhash}{fa417fa3b3e109096bd7f956946565f6}
+      \field{sortinit}{H}
+      \field{labeltitle}{Surface Reconstruction from Unorganized Points}
+      \field{booktitle}{Proceedings of the 19th Annual Conference on Computer Graphics and Interactive Techniques}
+      \field{isbn}{0-89791-479-1}
+      \field{series}{SIGGRAPH '92}
+      \field{title}{Surface Reconstruction from Unorganized Points}
+      \field{year}{1992}
+      \field{pages}{71\bibrangedash 78}
+      \verb{doi}
+      \verb 10.1145/133994.134011
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/133994.134011
+      \endverb
+      \keyw{geometric modeling,range data analysis,surface fitting,three-dimensional shape recovery}
+    \endentry
+    \entry{Hover2007}{article}{}
+      \name{labelname}{8}{}{%
+        {{hash=c0bfb1155dad49c680da99b07a657ab9}{Hover}{H\bibinitperiod}{F.\bibnamedelimi S.}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0b8008fe1e88e9b110d659ced8107d21}{Vaganay}{V\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6e32bd601117f9ccc270abde00343a9c}{Elkins}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=be067747f938e6d04d6a6415187a8521}{Willcox}{W\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=0802da8c04067cc3a44841246af3258d}{Polidoro}{P\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=b35a2221b5a73490f3a80cd9044e49ef}{Morash}{M\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a311b803b8539ca746f8348f7da24e0b}{Damus}{D\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=59ee8dcd9fa60291602eb9446843180f}{Desset}{D\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=c0bfb1155dad49c680da99b07a657ab9}{Hover}{H\bibinitperiod}{F.\bibnamedelimi S.}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0b8008fe1e88e9b110d659ced8107d21}{Vaganay}{V\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6e32bd601117f9ccc270abde00343a9c}{Elkins}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=be067747f938e6d04d6a6415187a8521}{Willcox}{W\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=0802da8c04067cc3a44841246af3258d}{Polidoro}{P\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=b35a2221b5a73490f3a80cd9044e49ef}{Morash}{M\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a311b803b8539ca746f8348f7da24e0b}{Damus}{D\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=59ee8dcd9fa60291602eb9446843180f}{Desset}{D\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Marine Technology Society}%
+      }
+      \strng{namehash}{f48f667b238dc90903329cfcac62ed51}
+      \strng{fullhash}{0bebe8ad6aa336bb9a2d3fd6b84aaeab}
+      \field{sortinit}{H}
+      \field{labeltitle}{{A Vehicle System for Autonomous Relative Survey of In-Water Ships}}
+      \field{issn}{00253324}
+      \field{journaltitle}{Marine Technology Society Journal}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{{A Vehicle System for Autonomous Relative Survey of In-Water Ships}}
+      \field{volume}{41}
+      \field{year}{2007}
+      \field{pages}{44\bibrangedash 55}
+      \verb{doi}
+      \verb 10.4031/002533207787442196
+      \endverb
+    \endentry
+    \entry{hu2016icra}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=8f54e14a61456cbfc8e4463d7bab9552}{Hu}{H\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b79e6cd00d353d958f2ff3ea3ba58b1c}{Kantor}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8f54e14a61456cbfc8e4463d7bab9552}{Hu}{H\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b79e6cd00d353d958f2ff3ea3ba58b1c}{Kantor}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{acbd0fbdc288846d5e9ae93d9edb1a29}
+      \strng{fullhash}{acbd0fbdc288846d5e9ae93d9edb1a29}
+      \field{sortinit}{H}
+      \field{labeltitle}{Instance selection for efficient and reliable camera calibration}
+      \field{booktitle}{Proc. IEEE International Conference on Robotics and Automation}
+      \field{month}{05}
+      \field{title}{Instance selection for efficient and reliable camera calibration}
+      \field{year}{2016}
+      \field{pages}{4335\bibrangedash 4340}
+      \verb{doi}
+      \verb 10.1109/ICRA.2016.7487632
+      \endverb
+      \keyw{calibration;cameras;parameter estimation;unsupervised learning;camera calibration;instance selection;large-scale physical experiments;nonuniform training data;parameter variance;reprojection error;training data distribution;Calibration;Cameras;Kernel;Mathematical model;Robot vision systems;Training;Training data}
+    \endentry
+    \entry{johannsson2010imaging}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=481bde394efc2e16cb09bb38e8c4642d}{Johannsson}{J\bibinitperiod}{Hordur}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=da701266dff9b3f01fdc8e0d18e5f021}{Kaess}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6443b423fcf7e9ae937e48c9e816c420}{Englot}{E\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6545d52b65cc89fa3c0cb688de395584}{Hover}{H\bibinitperiod}{Franz}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbba107b554ea58eb96c11473735dba}{Leonard}{L\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=481bde394efc2e16cb09bb38e8c4642d}{Johannsson}{J\bibinitperiod}{Hordur}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=da701266dff9b3f01fdc8e0d18e5f021}{Kaess}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6443b423fcf7e9ae937e48c9e816c420}{Englot}{E\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6545d52b65cc89fa3c0cb688de395584}{Hover}{H\bibinitperiod}{Franz}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbba107b554ea58eb96c11473735dba}{Leonard}{L\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5571c35526b2b0f030d54641265064c6}
+      \strng{fullhash}{a4d86bf295446144bc9f7c909b4fbc52}
+      \field{sortinit}{J}
+      \field{labeltitle}{Imaging sonar-aided navigation for autonomous underwater harbor surveillance}
+      \field{booktitle}{IEEE/RSJ Int. Conf. on Intelligent Robots and Systems}
+      \field{title}{Imaging sonar-aided navigation for autonomous underwater harbor surveillance}
+      \field{year}{2010}
+      \field{pages}{4396\bibrangedash 4403}
+    \endentry
+    \entry{johnson2010generation}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=63713f5bbea5a73d94cc640d3c05cc5a}{Johnson-Roberson}{J\bibinithyphendelim R\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=078a146bd8984c13bf6491b1e4f3b6ad}{Pizarro}{P\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=4726b9119ea97d46e4dfa74e83ba2c9c}{Williams}{W\bibinitperiod}{Stefan\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=17974d669957af803894786e541bae3c}{Mahon}{M\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=63713f5bbea5a73d94cc640d3c05cc5a}{Johnson-Roberson}{J\bibinithyphendelim R\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=078a146bd8984c13bf6491b1e4f3b6ad}{Pizarro}{P\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=4726b9119ea97d46e4dfa74e83ba2c9c}{Williams}{W\bibinitperiod}{Stefan\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=17974d669957af803894786e541bae3c}{Mahon}{M\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{f3044f6ead9fc57d48f7978479806068}
+      \strng{fullhash}{aa541cdc37fffe4d58c516a1620e45c7}
+      \field{sortinit}{J}
+      \field{labeltitle}{Generation and visualization of large-scale three-dimensional reconstructions from underwater robotic surveys}
+      \field{journaltitle}{Journal of Field Robotics}
+      \field{number}{1}
+      \field{title}{Generation and visualization of large-scale three-dimensional reconstructions from underwater robotic surveys}
+      \field{volume}{27}
+      \field{year}{2010}
+      \field{pages}{21\bibrangedash 51}
+    \endentry
+    \entry{Bradnt2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=328016d748531efc7901ef510aaa2708}{Kannala}{K\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=202117e4ed32ddc08e6f3ae3a293ce06}{Brandt}{B\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=328016d748531efc7901ef510aaa2708}{Kannala}{K\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=202117e4ed32ddc08e6f3ae3a293ce06}{Brandt}{B\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2a0bd9cf73e1843a40cea8c7bed6fc22}
+      \strng{fullhash}{2a0bd9cf73e1843a40cea8c7bed6fc22}
+      \field{sortinit}{K}
+      \field{labeltitle}{A generic camera model and calibration method for conventional, wide-angle, and fish-eye lenses}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{8}
+      \field{title}{A generic camera model and calibration method for conventional, wide-angle, and fish-eye lenses}
+      \field{volume}{28}
+      \field{year}{2006}
+      \field{pages}{1335\bibrangedash 1340}
+    \endentry
+    \entry{Kazhdan:2006:PSR:1281957.1281965}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=1e55a60641e7efb6f7e89e66a7cb6e60}{Kazhdan}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b42478a56531a806d761625a4893b4e4}{Bolitho}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=90fd9beea1c9006d7768540fc1fe8e40}{Hoppe}{H\bibinitperiod}{Hugues}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=1e55a60641e7efb6f7e89e66a7cb6e60}{Kazhdan}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b42478a56531a806d761625a4893b4e4}{Bolitho}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=90fd9beea1c9006d7768540fc1fe8e40}{Hoppe}{H\bibinitperiod}{Hugues}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cagliari, Sardinia, Italy}%
+      }
+      \list{publisher}{1}{%
+        {Eurographics Association}%
+      }
+      \strng{namehash}{81014c479db472ce8e77b4ec1607da47}
+      \strng{fullhash}{81014c479db472ce8e77b4ec1607da47}
+      \field{sortinit}{K}
+      \field{labeltitle}{Poisson Surface Reconstruction}
+      \field{booktitle}{Proceedings of the Fourth Eurographics Symposium on Geometry Processing}
+      \field{isbn}{3-905673-36-3}
+      \field{series}{SGP '06}
+      \field{title}{Poisson Surface Reconstruction}
+      \field{year}{2006}
+      \field{pages}{61\bibrangedash 70}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1281957.1281965
+      \endverb
+    \endentry
+    \entry{2011_Kelly_Visual}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=78a97df824a6dcbb4aac91851e9a4f3d}{Kelly}{K\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6c61e2f1cc07592b63f64ae31bc276e0}{Sukhatme}{S\bibinitperiod}{Gaurav\bibnamedelima S.}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=78a97df824a6dcbb4aac91851e9a4f3d}{Kelly}{K\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6c61e2f1cc07592b63f64ae31bc276e0}{Sukhatme}{S\bibinitperiod}{Gaurav\bibnamedelima S.}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8320fe1e6801dfb7c8bb96d170d79958}
+      \strng{fullhash}{8320fe1e6801dfb7c8bb96d170d79958}
+      \field{sortinit}{K}
+      \field{labeltitle}{Visual-Inertial Sensor Fusion: Localization, Mapping and Sensor-to-Sensor Self-Calibration}
+      \field{abstract}{Visual and inertial sensors, in combination, are able to provide accurate motion estimates and are well suited for use in many robot navigation tasks. However, correct data fusion, and hence overall performance, depends on careful calibration of the rigid body transform between the sensors. Obtaining this calibration information is typically difficult and time-consuming, and normally requires additional equipment. In this paper we describe an algorithm, based on the unscented Kalman filter, for self-calibration of the transform between a camera and an inertial measurement unit (IMU). Our formulation rests on a differential geometric analysis of the observability of the camera--IMU system; this analysis shows that the sensor-to-sensor transform, the IMU gyroscope and accelerometer biases, the local gravity vector, and the metric scene structure can be recovered from camera and IMU measurements alone. While calibrating the transform we simultaneously localize the IMU and build a map of the surroundings, all without additional hardware or prior knowledge about the environment in which a robot is operating. We present results from simulation studies and from experiments with a monocular camera and a low-cost IMU, which demonstrate accurate estimation of both the calibration parameters and the local scene structure.}
+      \field{journaltitle}{The International Journal of Robotics Research}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Visual-Inertial Sensor Fusion: Localization, Mapping and Sensor-to-Sensor Self-Calibration}
+      \field{volume}{30}
+      \field{year}{2011}
+      \field{pages}{56\bibrangedash 79}
+      \verb{doi}
+      \verb 10.1177/0278364910382802
+      \endverb
+    \endentry
+    \entry{Kender86shapefrom}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=7b6d45d52e9c0cd32ae0bd20f08a1a46}{Kender}{K\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=887054025261f11cd825d65449a09f7a}{Smith}{S\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7b6d45d52e9c0cd32ae0bd20f08a1a46}{Kender}{K\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=887054025261f11cd825d65449a09f7a}{Smith}{S\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{09fe6a6525c956a97aa3a314c98c5916}
+      \strng{fullhash}{09fe6a6525c956a97aa3a314c98c5916}
+      \field{sortinit}{K}
+      \field{labeltitle}{Shape from darkness; deriving surface information from dynamic shadows}
+      \field{booktitle}{Proc. AAAI National Conference on Artificial Intelligence (AAAI)}
+      \field{title}{Shape from darkness; deriving surface information from dynamic shadows}
+      \field{year}{1986}
+      \field{pages}{664\bibrangedash 669}
+    \endentry
+    \entry{akim-2013a}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=c2027ae37fdb971063162140d0d3f7b5}{Kim}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7e1648ffc17916e35bc47a44a2c4a386}{Eustice}{E\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c2027ae37fdb971063162140d0d3f7b5}{Kim}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7e1648ffc17916e35bc47a44a2c4a386}{Eustice}{E\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6fa527a10a429f22060116c61417e81c}
+      \strng{fullhash}{6fa527a10a429f22060116c61417e81c}
+      \field{sortinit}{K}
+      \field{labeltitle}{Real-time visual {SLAM} for autonomous underwater hull inspection using visual saliency}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{number}{3}
+      \field{title}{Real-time visual {SLAM} for autonomous underwater hull inspection using visual saliency}
+      \field{volume}{29}
+      \field{year}{2013}
+      \field{pages}{719\bibrangedash 733}
+    \endentry
+    \entry{klein}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=81c119e7adf31efd54cf22ccc13a68b1}{Klein}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=0cc50e9ec701e228fa3b7fed848dc685}{Murray}{M\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=81c119e7adf31efd54cf22ccc13a68b1}{Klein}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=0cc50e9ec701e228fa3b7fed848dc685}{Murray}{M\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Nara, Japan}%
+      }
+      \strng{namehash}{3b5f5bdc638aeead84e2852b8f2f2ad7}
+      \strng{fullhash}{3b5f5bdc638aeead84e2852b8f2f2ad7}
+      \field{sortinit}{K}
+      \field{labeltitle}{Parallel Tracking and Mapping for Small {AR} Workspaces}
+      \field{booktitle}{Proc. Sixth {IEEE} and {ACM} International Symposium on Mixed and Augmented Reality (ISMAR'07)}
+      \field{month}{11}
+      \field{title}{Parallel Tracking and Mapping for Small {AR} Workspaces}
+      \field{year}{2007}
+    \endentry
+    \entry{4538852}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=81c119e7adf31efd54cf22ccc13a68b1}{Klein}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=0cc50e9ec701e228fa3b7fed848dc685}{Murray}{M\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=81c119e7adf31efd54cf22ccc13a68b1}{Klein}{K\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=0cc50e9ec701e228fa3b7fed848dc685}{Murray}{M\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3b5f5bdc638aeead84e2852b8f2f2ad7}
+      \strng{fullhash}{3b5f5bdc638aeead84e2852b8f2f2ad7}
+      \field{sortinit}{K}
+      \field{labeltitle}{Parallel Tracking and Mapping for Small AR Workspaces}
+      \field{abstract}{This paper presents a method of estimating camera pose in an unknown scene. While this has previously been attempted by adapting SLAM algorithms developed for robotic exploration, we propose a system specifically designed to track a hand-held camera in a small AR workspace. We propose to split tracking and mapping into two separate tasks, processed in parallel threads on a dual-core computer: one thread deals with the task of robustly tracking erratic hand-held motion, while the other produces a 3D map of point features from previously observed video frames. This allows the use of computationally expensive batch optimisation techniques not usually associated with real-time operation: The result is a system that produces detailed maps with thousands of landmarks which can be tracked at frame-rate, with an accuracy and robustness rivalling that of state-of-the-art model-based systems.}
+      \field{booktitle}{Mixed and Augmented Reality, 2007. ISMAR 2007. 6th IEEE and ACM International Symposium on}
+      \field{month}{11}
+      \field{title}{Parallel Tracking and Mapping for Small AR Workspaces}
+      \field{year}{2007}
+      \field{pages}{225\bibrangedash 234}
+      \verb{doi}
+      \verb 10.1109/ISMAR.2007.4538852
+      \endverb
+      \keyw{SLAM (robots);augmented reality;robot vision;SLAM algorithms;augmented reality;batch optimisation techniques;hand-held camera;parallel mapping;parallel tracking;robotic exploration;Algorithm design and analysis;Cameras;Concurrent computing;Handheld computers;Layout;Robot vision systems;Robustness;Simultaneous localization and mapping;Tracking;Yarn}
+    \endentry
+    \entry{Kutulakos2000}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=3cf932a47d670d1411413fbbe21e81d0}{Kutulakos}{K\bibinitperiod}{K.\bibnamedelimi N.}{K\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=822d21db83733109b59054b747f9191f}{Seitz}{S\bibinitperiod}{S.\bibnamedelimi M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3cf932a47d670d1411413fbbe21e81d0}{Kutulakos}{K\bibinitperiod}{K.\bibnamedelimi N.}{K\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=822d21db83733109b59054b747f9191f}{Seitz}{S\bibinitperiod}{S.\bibnamedelimi M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{e0eb16494d07902e69870eba447566ae}
+      \strng{fullhash}{e0eb16494d07902e69870eba447566ae}
+      \field{sortinit}{K}
+      \field{labeltitle}{A Theory of Shape by Space Carving}
+      \field{issn}{0920-5691}
+      \field{journaltitle}{International Journal of Computer Vision}
+      \field{number}{3}
+      \field{title}{A Theory of Shape by Space Carving}
+      \field{volume}{38}
+      \field{year}{2000}
+      \field{pages}{199\bibrangedash 218}
+      \verb{doi}
+      \verb 10.1023/A:1008191222954
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1023/A:1008191222954
+      \endverb
+      \keyw{scene modeling; photorealistic reconstruction; multi-view stereo; space carving; voxel coloring; shape-from-silhouettes; visual hull; volumetric shape representations; metameric shapes; 3-D photography}
+    \endentry
+    \entry{Lane2001}{report}{}
+      \name{labelname}{1}{}{%
+        {{hash=77dc075411de0ec800e3691c96c0ce3f}{Lane}{L\bibinitperiod}{Ed}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=77dc075411de0ec800e3691c96c0ce3f}{Lane}{L\bibinitperiod}{Ed}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Florida Geological Survey}%
+      }
+      \list{location}{1}{%
+        {Tallahasee, Fl}%
+      }
+      \strng{namehash}{77dc075411de0ec800e3691c96c0ce3f}
+      \strng{fullhash}{77dc075411de0ec800e3691c96c0ce3f}
+      \field{sortinit}{L}
+      \field{labeltitle}{{The Spring Creek Submarine Springs Group, Wakulla County, Florida}}
+      \field{number}{Special Publication 47}
+      \field{title}{{The Spring Creek Submarine Springs Group, Wakulla County, Florida}}
+      \field{type}{techreport}
+      \field{year}{2001}
+    \endentry
+    \entry{lee2005underwater}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=ad00deb1668ef7cd4f7a808cbe235067}{Lee}{L\bibinitperiod}{Chong-Moo}{C\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a0995d3ddd8e8d40d67724cd19da0fe}{Lee}{L\bibinitperiod}{Pan-Mook}{P\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=233769984594d99b64a07696b0d20391}{Hong}{H\bibinitperiod}{Seok-Won}{S\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=e2af8347066ed96b5b86644d880ecf0c}{Kim}{K\bibinitperiod}{Sea-Moon}{S\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f1617d40c28841ca4206183381b27287}{Seong}{S\bibinitperiod}{Woojae}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=ad00deb1668ef7cd4f7a808cbe235067}{Lee}{L\bibinitperiod}{Chong-Moo}{C\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a0995d3ddd8e8d40d67724cd19da0fe}{Lee}{L\bibinitperiod}{Pan-Mook}{P\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=233769984594d99b64a07696b0d20391}{Hong}{H\bibinitperiod}{Seok-Won}{S\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=e2af8347066ed96b5b86644d880ecf0c}{Kim}{K\bibinitperiod}{Sea-Moon}{S\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f1617d40c28841ca4206183381b27287}{Seong}{S\bibinitperiod}{Woojae}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f300098527970f7809fe1e8553b5c3e7}
+      \strng{fullhash}{b60e415c0d54a24091d4bc8794daef90}
+      \field{sortinit}{L}
+      \field{labeltitle}{Underwater navigation system based on inertial sensor and doppler velocity log using indirect feedback Kalman filter}
+      \field{journaltitle}{Int. J. of Offshore and Polar Engineering}
+      \field{number}{02}
+      \field{title}{Underwater navigation system based on inertial sensor and doppler velocity log using indirect feedback Kalman filter}
+      \field{volume}{15}
+      \field{year}{2005}
+    \endentry
+    \entry{Leone2008}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=2be57c6ccfd32888ccef28cd7421fc31}{Leone}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=349e9b4fca670357af4433bae0b7fa1b}{Diraco}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=dc1d7ebc557f5ad92e0315716dc0af68}{Distante}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2be57c6ccfd32888ccef28cd7421fc31}{Leone}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=349e9b4fca670357af4433bae0b7fa1b}{Diraco}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=dc1d7ebc557f5ad92e0315716dc0af68}{Distante}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{ea62bccfdcc10c4cc4696ea93a2084cf}
+      \strng{fullhash}{ea62bccfdcc10c4cc4696ea93a2084cf}
+      \field{sortinit}{L}
+      \field{labeltitle}{Stereo Vision}
+      \field{chapter}{11. A Stereo Vision Framework for 3-D Underwater Mosaicking}
+      \field{isbn}{ISBN: 978-953-7619-22-0,}
+      \field{title}{Stereo Vision}
+      \field{year}{2008}
+      \field{pages}{173\bibrangedash 196}
+    \endentry
+    \entry{levin2004mesh}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=32ad21054f07b38c5fef8dcf472ca73c}{Levin}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=32ad21054f07b38c5fef8dcf472ca73c}{Levin}{L\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{32ad21054f07b38c5fef8dcf472ca73c}
+      \strng{fullhash}{32ad21054f07b38c5fef8dcf472ca73c}
+      \field{sortinit}{L}
+      \field{labeltitle}{Mesh-independent surface interpolation}
+      \field{booktitle}{Geometric modeling for scientific visualization}
+      \field{title}{Mesh-independent surface interpolation}
+      \field{year}{2004}
+      \field{pages}{37\bibrangedash 49}
+    \endentry
+    \entry{RekleitisISERVO2016}{inproceedings}{}
+      \name{labelname}{11}{}{%
+        {{hash=f73deffabdfcc414707f50aee8216fe9}{Li}{L\bibinitperiod}{Alberto\bibnamedelima Quattrini}{A\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
+        {{hash=7b26cf48524ac59d9b8cc318bd1278c8}{Coskun}{C\bibinitperiod}{Adem}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=692cb02060a14924ade78a21940edc55}{Doherty}{D\bibinitperiod}{Sean\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f36a1b4c6eda2993777ca363f1804492}{Ghasemlou}{G\bibinitperiod}{Shervin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=359e9c34dd8f2f2ff072c33c2471f7ae}{Jagtap}{J\bibinitperiod}{Apoorv\bibnamedelima S.}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5e76f79f57bd6bff758145d72232eff9}{Modasshir}{M\bibinitperiod}{MD}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=99f26b0ff5ddff59d005db7acd08100b}{Rahman}{R\bibinitperiod}{Sharmin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=275eb008ad8c6b74538e17f29f190d72}{Singh}{S\bibinitperiod}{Akanksha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=152da427b4b46b06285c920f2a579d09}{Xanthidis}{X\bibinitperiod}{Marios}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=88078be5874ec2ef6045fe74bd20f761}{O'Kane}{O\bibinitperiod}{Jason\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=b47c2dc8dc3c61fadae36fa40955b725}{Rekleitis}{R\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=f73deffabdfcc414707f50aee8216fe9}{Li}{L\bibinitperiod}{Alberto\bibnamedelima Quattrini}{A\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
+        {{hash=7b26cf48524ac59d9b8cc318bd1278c8}{Coskun}{C\bibinitperiod}{Adem}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=692cb02060a14924ade78a21940edc55}{Doherty}{D\bibinitperiod}{Sean\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f36a1b4c6eda2993777ca363f1804492}{Ghasemlou}{G\bibinitperiod}{Shervin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=359e9c34dd8f2f2ff072c33c2471f7ae}{Jagtap}{J\bibinitperiod}{Apoorv\bibnamedelima S.}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=5e76f79f57bd6bff758145d72232eff9}{Modasshir}{M\bibinitperiod}{MD}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=99f26b0ff5ddff59d005db7acd08100b}{Rahman}{R\bibinitperiod}{Sharmin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=275eb008ad8c6b74538e17f29f190d72}{Singh}{S\bibinitperiod}{Akanksha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=152da427b4b46b06285c920f2a579d09}{Xanthidis}{X\bibinitperiod}{Marios}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=88078be5874ec2ef6045fe74bd20f761}{O'Kane}{O\bibinitperiod}{Jason\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=b47c2dc8dc3c61fadae36fa40955b725}{Rekleitis}{R\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Tokyo, Japan}%
+      }
+      \strng{namehash}{9347ae5fe226a4980401a6b4624a239e}
+      \strng{fullhash}{080198950926633d6f5528996d707fd6}
+      \field{sortinit}{L}
+      \field{labeltitle}{Experimental Comparison of open source Vision based State Estimation Algorithms}
+      \field{booktitle}{International Symposium of Experimental Robotics (ISER)}
+      \field{month}{03}
+      \field{title}{Experimental Comparison of open source Vision based State Estimation Algorithms}
+      \field{year}{2016}
+    \endentry
+    \entry{doi:10.1177/0278364907079276}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ea6145ec5333feac94f6030e3e212a51}{Lobo}{L\bibinitperiod}{Jorge}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2043b69c7dd389d1347d8b7be6ad5665}{Dias}{D\bibinitperiod}{Jorge}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ea6145ec5333feac94f6030e3e212a51}{Lobo}{L\bibinitperiod}{Jorge}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2043b69c7dd389d1347d8b7be6ad5665}{Dias}{D\bibinitperiod}{Jorge}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4dc84d50cbe4432cf12e152d0eef4608}
+      \strng{fullhash}{4dc84d50cbe4432cf12e152d0eef4608}
+      \field{sortinit}{L}
+      \field{labeltitle}{Relative Pose Calibration Between Visual and Inertial Sensors}
+      \field{abstract}{This paper proposes an approach to calibrate off-the-shelf cameras and inertial sensors to have a useful integrated system to be used in static and dynamic situations. When both sensors are integrated in a system their relative pose needs to be determined. The rotation between the camera and the inertial sensor can be estimated, concurrently with camera calibration, by having both sensors observe the vertical direction in several poses. The camera relies on a vertical chequered planar target and the inertial sensor on gravity to obtain a vertical reference. Depending on the setup and system motion, the translation between the two sensors can also be important. Using a simple passive turntable and static images, the translation can be estimated. The system needs to be placed in several poses and adjusted to turn about the inertial sensor centre, so that the lever arm to the camera can be determined. Simulation and real data results are presented to show the validity and simple requirements of the proposed methods.}
+      \field{journaltitle}{The International Journal of Robotics Research}
+      \field{number}{6}
+      \field{title}{Relative Pose Calibration Between Visual and Inertial Sensors}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{561\bibrangedash 575}
+      \verb{doi}
+      \verb 10.1177/0278364907079276
+      \endverb
+      \verb{eprint}
+      \verb http://dx.doi.org/10.1177/0278364907079276
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1177/0278364907079276
+      \endverb
+    \endentry
+    \entry{Lorensen:1987:MCH:37401.37422}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=5f044d5040e5c3aa393aecdd3ccb0b25}{Lorensen}{L\bibinitperiod}{William\bibnamedelima E.}{W\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=81bfed6aceccfae6bd49449842b5657c}{Cline}{C\bibinitperiod}{Harvey\bibnamedelima E.}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5f044d5040e5c3aa393aecdd3ccb0b25}{Lorensen}{L\bibinitperiod}{William\bibnamedelima E.}{W\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=81bfed6aceccfae6bd49449842b5657c}{Cline}{C\bibinitperiod}{Harvey\bibnamedelima E.}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{9b571a4d8f4cfa422573381b35a61353}
+      \strng{fullhash}{9b571a4d8f4cfa422573381b35a61353}
+      \field{sortinit}{L}
+      \field{labeltitle}{Marching Cubes: A High Resolution 3D Surface Construction Algorithm}
+      \field{booktitle}{Proceedings of the 14th Annual Conference on Computer Graphics and Interactive Techniques}
+      \field{isbn}{0-89791-227-6}
+      \field{series}{SIGGRAPH '87}
+      \field{title}{Marching Cubes: A High Resolution 3D Surface Construction Algorithm}
+      \field{year}{1987}
+      \field{pages}{163\bibrangedash 169}
+      \verb{doi}
+      \verb 10.1145/37401.37422
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/37401.37422
+      \endverb
+    \endentry
+    \entry{mahon2008efficient}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=17974d669957af803894786e541bae3c}{Mahon}{M\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=4726b9119ea97d46e4dfa74e83ba2c9c}{Williams}{W\bibinitperiod}{Stefan\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=078a146bd8984c13bf6491b1e4f3b6ad}{Pizarro}{P\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=63713f5bbea5a73d94cc640d3c05cc5a}{Johnson-Roberson}{J\bibinithyphendelim R\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=17974d669957af803894786e541bae3c}{Mahon}{M\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=4726b9119ea97d46e4dfa74e83ba2c9c}{Williams}{W\bibinitperiod}{Stefan\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=078a146bd8984c13bf6491b1e4f3b6ad}{Pizarro}{P\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=63713f5bbea5a73d94cc640d3c05cc5a}{Johnson-Roberson}{J\bibinithyphendelim R\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{628b22a24f66aa4869a5dd95c17d1d72}
+      \strng{fullhash}{7105b2f0cf8fcbcb0b6b31f38c57ed34}
+      \field{sortinit}{M}
+      \field{labeltitle}{{Efficient view-based SLAM using visual loop closures}}
+      \field{journaltitle}{IEEE Trans. on Robotics}
+      \field{number}{5}
+      \field{title}{{Efficient view-based SLAM using visual loop closures}}
+      \field{volume}{24}
+      \field{year}{2008}
+      \field{pages}{1002\bibrangedash 1014}
+    \endentry
+    \entry{massot2015optical}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=02f62cbc05925fe893c70c2d86cfd47f}{Massot-Campos}{M\bibinithyphendelim C\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=993fef01a8d612f7e1a2454dcdeb4cec}{Oliver-Codina}{O\bibinithyphendelim C\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=02f62cbc05925fe893c70c2d86cfd47f}{Massot-Campos}{M\bibinithyphendelim C\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=993fef01a8d612f7e1a2454dcdeb4cec}{Oliver-Codina}{O\bibinithyphendelim C\bibinitperiod}{Gabriel}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{ae2479dfe6874f42440d8a8ac2571472}
+      \strng{fullhash}{ae2479dfe6874f42440d8a8ac2571472}
+      \field{sortinit}{M}
+      \field{labeltitle}{Optical Sensors and Methods for Underwater 3D Reconstruction}
+      \field{journaltitle}{Sensors}
+      \field{number}{12}
+      \field{title}{Optical Sensors and Methods for Underwater 3D Reconstruction}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{31525\bibrangedash 31557}
+    \endentry
+    \entry{4637877}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=5b27ac2f047a3cd8de1051aa03faac16}{Mirzaei}{M\bibinitperiod}{F.\bibnamedelimi M.}{F\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=ac3569d19030a5ac83a409ca21609a15}{Roumeliotis}{R\bibinitperiod}{S.\bibnamedelimi I.}{S\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5b27ac2f047a3cd8de1051aa03faac16}{Mirzaei}{M\bibinitperiod}{F.\bibnamedelimi M.}{F\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=ac3569d19030a5ac83a409ca21609a15}{Roumeliotis}{R\bibinitperiod}{S.\bibnamedelimi I.}{S\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0fd1e8693e6ee46f0e3c4d92d0da9b7e}
+      \strng{fullhash}{0fd1e8693e6ee46f0e3c4d92d0da9b7e}
+      \field{sortinit}{M}
+      \field{labeltitle}{A {Kalman} Filter-Based Algorithm for IMU-Camera Calibration: Observability Analysis and Performance Evaluation}
+      \field{issn}{1552-3098}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{A {Kalman} Filter-Based Algorithm for IMU-Camera Calibration: Observability Analysis and Performance Evaluation}
+      \field{volume}{24}
+      \field{year}{2008}
+      \field{pages}{1143\bibrangedash 1156}
+      \verb{doi}
+      \verb 10.1109/TRO.2008.2004486
+      \endverb
+      \keyw{Kalman filters;calibration;computer vision;image sensors;inertial navigation;observability;state estimation;Kalman filter-based algorithm;inertial measurement unit;observability analysis;observability rank criterion;performance evaluation;vision-aided inertial navigation systems;Extended Kalman filter;Lie derivatives;inertial measurement unit (IMU)-camera calibration;observability of nonlinear systems;vision-aided inertial navigation}
+    \endentry
+    \entry{ORB1}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=97e889e4a152086a749293c55b93beed}{Mur-Artal}{M\bibinithyphendelim A\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=08c9c0b9e263dee1c64053106631006e}{Tardos}{T\bibinitperiod}{J.\bibnamedelimi D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=97e889e4a152086a749293c55b93beed}{Mur-Artal}{M\bibinithyphendelim A\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=08c9c0b9e263dee1c64053106631006e}{Tardos}{T\bibinitperiod}{J.\bibnamedelimi D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aa8de8ef024663ddb2fdef6086c26a27}
+      \strng{fullhash}{aa8de8ef024663ddb2fdef6086c26a27}
+      \field{sortinit}{M}
+      \field{labeltitle}{{ORB-SLAM: Tracking and Mapping Recognizable Features}}
+      \field{booktitle}{{Robotics: Science and Systems (RSS) Workshop on Multi VIew Geometry in RObotics (MVIGRO)}}
+      \field{title}{{ORB-SLAM: Tracking and Mapping Recognizable Features}}
+      \field{year}{2014}
+    \endentry
+    \entry{murTRO2015}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8a679ec1fa79d94651fbb45f1fba7dec}{Mur-Artal}{M\bibinithyphendelim A\bibinitperiod}{Ra\'ul}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b8c6f387d6ed9a4f364c8d512f8349b2}{Montiel}{M\bibinitperiod}{J.\bibnamedelimi M.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=936daa9ae3995fad5e683d81fc028cdf}{Tard\'os}{T\bibinitperiod}{Juan\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8a679ec1fa79d94651fbb45f1fba7dec}{Mur-Artal}{M\bibinithyphendelim A\bibinitperiod}{Ra\'ul}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b8c6f387d6ed9a4f364c8d512f8349b2}{Montiel}{M\bibinitperiod}{J.\bibnamedelimi M.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=936daa9ae3995fad5e683d81fc028cdf}{Tard\'os}{T\bibinitperiod}{Juan\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{193cb394dd6678b90059de0a58ef6879}
+      \strng{fullhash}{193cb394dd6678b90059de0a58ef6879}
+      \field{sortinit}{M}
+      \field{labeltitle}{{ORB-SLAM}: a Versatile and Accurate Monocular {SLAM} System}
+      \field{journaltitle}{IEEE Transactions on Robotics}
+      \field{number}{5}
+      \field{title}{{ORB-SLAM}: a Versatile and Accurate Monocular {SLAM} System}
+      \field{volume}{31}
+      \field{year}{2015}
+      \field{pages}{1147\bibrangedash 1163}
+      \verb{doi}
+      \verb 10.1109/TRO.2015.2463671
+      \endverb
+    \endentry
+    \entry{Nalpantidis2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=97e4cf903dcecf88def95b2344ad8513}{Nalpantidis}{N\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b68fe689ab0e6f6a79ae7432df8d71dd}{Gasteratos}{G\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=97e4cf903dcecf88def95b2344ad8513}{Nalpantidis}{N\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b68fe689ab0e6f6a79ae7432df8d71dd}{Gasteratos}{G\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{963c28b4871de377befaaf673f39138d}
+      \strng{fullhash}{963c28b4871de377befaaf673f39138d}
+      \field{sortinit}{N}
+      \field{labeltitle}{Stereo vision for robotic applications in the presence of non-ideal lighting conditions}
+      \field{issn}{0262-8856}
+      \field{journaltitle}{Image and Vision Computing}
+      \field{number}{6}
+      \field{title}{Stereo vision for robotic applications in the presence of non-ideal lighting conditions}
+      \field{volume}{28}
+      \field{year}{2010}
+      \field{pages}{940\bibrangedash 951}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.imavis.2009.11.011
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0262885609002674
+      \endverb
+      \keyw{Luminosity non-uniformity compensation}
+    \endentry
+    \entry{nister2004visual}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=0c4e55cb5b7b3796a2a837abbc76321a}{Nist{\'e}r}{N\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ce9578f9e5fd6557c348a576006508ac}{Naroditsky}{N\bibinitperiod}{O.}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=88badcf710119941539654e3c2b4b3a0}{Bergen}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0c4e55cb5b7b3796a2a837abbc76321a}{Nist{\'e}r}{N\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ce9578f9e5fd6557c348a576006508ac}{Naroditsky}{N\bibinitperiod}{O.}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=88badcf710119941539654e3c2b4b3a0}{Bergen}{B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{bf72389b4c06daeba2de4e150898fbb3}
+      \strng{fullhash}{bf72389b4c06daeba2de4e150898fbb3}
+      \field{sortinit}{N}
+      \field{labeltitle}{Visual odometry}
+      \field{booktitle}{Computer Vision and Pattern Recognition, 2004. CVPR 2004. Proceedings of the 2004 IEEE Computer Society Conference on}
+      \field{title}{Visual odometry}
+      \field{volume}{1}
+      \field{year}{2004}
+      \field{pages}{I\bibrangedash 652}
+    \endentry
+    \entry{oztireli2009feature}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=1c0ca9944dbd4a9c6c5463e2d3114486}{{\"O}ztireli}{{\"O}\bibinitperiod}{A\bibnamedelima Cengiz}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e5bcd36580f35d5ed03092201959472}{Guennebaud}{G\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=89835485884945e38712de8162277435}{Gross}{G\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=1c0ca9944dbd4a9c6c5463e2d3114486}{{\"O}ztireli}{{\"O}\bibinitperiod}{A\bibnamedelima Cengiz}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=7e5bcd36580f35d5ed03092201959472}{Guennebaud}{G\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=89835485884945e38712de8162277435}{Gross}{G\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{0e38a556c39587eb87427ded28fc7e2d}
+      \strng{fullhash}{0e38a556c39587eb87427ded28fc7e2d}
+      \field{sortinit}{\"{O}}
+      \field{labeltitle}{Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression}
+      \field{booktitle}{Computer Graphics Forum}
+      \field{number}{2}
+      \field{title}{Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression}
+      \field{volume}{28}
+      \field{year}{2009}
+      \field{pages}{493\bibrangedash 501}
+    \endentry
+    \entry{Ribas2008}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=defc8b4be063f56c39c5e5254bb4b3a2}{Ribas}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=6d870f680815f87e09da7f1702281936}{Ridao}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a3b4c69650ecaf9505b45458a5e56da3}{Domingo}{D\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=defc8b4be063f56c39c5e5254bb4b3a2}{Ribas}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=6d870f680815f87e09da7f1702281936}{Ridao}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a3b4c69650ecaf9505b45458a5e56da3}{Domingo}{D\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0cac0e63637eee022285f7d245931a7e}
+      \strng{fullhash}{0cac0e63637eee022285f7d245931a7e}
+      \field{sortinit}{R}
+      \field{labeltitle}{{Underwater SLAM in Man-Made Structured}}
+      \field{journaltitle}{Journal of Field Robotics}
+      \field{title}{{Underwater SLAM in Man-Made Structured}}
+      \field{volume}{25}
+      \field{year}{2008}
+      \field{pages}{898\bibrangedash 921}
+      \verb{doi}
+      \verb 10.1002/rob
+      \endverb
+      \verb{file}
+      \verb :Users/yiannis/Library/Application Support/Mendeley Desktop/Downloaded/Ribas, Ridao, Domingo - 2008 - Underwater SLAM in Man-Made Structured.pdf:pdf
+      \endverb
+    \endentry
+    \entry{richardson2013iros}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=403d86137b43942fea20f8133afa2a8a}{Richardson}{R\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=79dbb7ec42fc62ab8fd6652449f3fff1}{Strom}{S\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8f743eebb2f64f75592e54ba06f94320}{Olson}{O\bibinitperiod}{Edwin}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=403d86137b43942fea20f8133afa2a8a}{Richardson}{R\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=79dbb7ec42fc62ab8fd6652449f3fff1}{Strom}{S\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8f743eebb2f64f75592e54ba06f94320}{Olson}{O\bibinitperiod}{Edwin}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{35474b0c1f0e2b24ea353e74344b948f}
+      \strng{fullhash}{35474b0c1f0e2b24ea353e74344b948f}
+      \field{sortinit}{R}
+      \field{labeltitle}{{AprilCal}: Assisted and repeatable camera calibration}
+      \field{booktitle}{{IEEE/RSJ} International Conference on Intelligent Robots and Systems {(IROS)}}
+      \field{month}{11}
+      \field{title}{{AprilCal}: Assisted and repeatable camera calibration}
+      \field{year}{2013}
+    \endentry
+    \entry{Ridao2010}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=6d870f680815f87e09da7f1702281936}{Ridao}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a2635bf1607ef6c4c4f515d6c3781bdf}{Carreras}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=defc8b4be063f56c39c5e5254bb4b3a2}{Ribas}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ed890e1b50c2389cc215c9e8cb20f9b5}{Garcia}{G\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=6d870f680815f87e09da7f1702281936}{Ridao}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a2635bf1607ef6c4c4f515d6c3781bdf}{Carreras}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=defc8b4be063f56c39c5e5254bb4b3a2}{Ribas}{R\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ed890e1b50c2389cc215c9e8cb20f9b5}{Garcia}{G\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c9b0d94433f8aefea819f883b38f88ee}
+      \strng{fullhash}{adaac4350d5ed580d9a5701b84b536d2}
+      \field{sortinit}{R}
+      \field{labeltitle}{Visual inspection of hydroelectric dams using an autonomous underwater vehicle}
+      \field{journaltitle}{Journal of Field Robotics}
+      \field{number}{6}
+      \field{title}{Visual inspection of hydroelectric dams using an autonomous underwater vehicle}
+      \field{volume}{27}
+      \field{year}{2010}
+      \field{pages}{759 778}
+    \endentry
+    \entry{rigby2006towards}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=c6c15b821ac9bc542b2d9e9dfbd84516}{Rigby}{R\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=078a146bd8984c13bf6491b1e4f3b6ad}{Pizarro}{P\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=4726b9119ea97d46e4dfa74e83ba2c9c}{Williams}{W\bibinitperiod}{Stefan\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c6c15b821ac9bc542b2d9e9dfbd84516}{Rigby}{R\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=078a146bd8984c13bf6491b1e4f3b6ad}{Pizarro}{P\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=4726b9119ea97d46e4dfa74e83ba2c9c}{Williams}{W\bibinitperiod}{Stefan\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{94838134e99b30b8e4ab0eb9ba60c0a5}
+      \strng{fullhash}{94838134e99b30b8e4ab0eb9ba60c0a5}
+      \field{sortinit}{R}
+      \field{labeltitle}{{Towards geo-referenced AUV navigation through fusion of USBL and DVL measurements}}
+      \field{booktitle}{MTS/IEEE OCEANS}
+      \field{title}{{Towards geo-referenced AUV navigation through fusion of USBL and DVL measurements}}
+      \field{year}{2006}
+      \field{pages}{1\bibrangedash 6}
+    \endentry
+    \entry{Scara2008_2}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=133ce721d554691f3f4e1f21921f92ac}{Rufli}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=934d64a63cbc09ee80d7f5b71c081e8a}{Siegwart}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=133ce721d554691f3f4e1f21921f92ac}{Rufli}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=934d64a63cbc09ee80d7f5b71c081e8a}{Siegwart}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2692da2e25f0b9854120b8ea59db9262}
+      \strng{fullhash}{2692da2e25f0b9854120b8ea59db9262}
+      \field{sortinit}{R}
+      \field{labeltitle}{Automatic Detection of Checkerboards on Blurred and Distorted Images}
+      \field{journaltitle}{IEEE International Conference on Intelligent Robots and Systems ({IROS})}
+      \field{title}{Automatic Detection of Checkerboards on Blurred and Distorted Images}
+      \field{year}{2008}
+      \field{pages}{3121\bibrangedash 3126}
+    \endentry
+    \entry{RusuDoctoralDissertation}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=98b93f9e42ef2b2ce34511e4fc852b34}{Rusu}{R\bibinitperiod}{Radu\bibnamedelima Bogdan}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=98b93f9e42ef2b2ce34511e4fc852b34}{Rusu}{R\bibinitperiod}{Radu\bibnamedelima Bogdan}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Computer Science department, Technische Universitaet Muenchen, Germany}%
+      }
+      \strng{namehash}{98b93f9e42ef2b2ce34511e4fc852b34}
+      \strng{fullhash}{98b93f9e42ef2b2ce34511e4fc852b34}
+      \field{sortinit}{R}
+      \field{labeltitle}{Semantic 3D Object Maps for Everyday Manipulation in Human Living Environments}
+      \field{month}{10}
+      \field{title}{Semantic 3D Object Maps for Everyday Manipulation in Human Living Environments}
+      \field{type}{phdthesis}
+      \field{year}{2009}
+    \endentry
+    \entry{Scara2008_1}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {ETH Zurich}%
+      }
+      \strng{namehash}{0fe012669336367b1cda6c33076ffd37}
+      \strng{fullhash}{0fe012669336367b1cda6c33076ffd37}
+      \field{sortinit}{S}
+      \field{labeltitle}{{Omnidirectional Vision: from Calibration to Robot Motion Estimation}}
+      \field{title}{{Omnidirectional Vision: from Calibration to Robot Motion Estimation}}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+    \endentry
+    \entry{Scara2006_1}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=6cfd1ad244855b265531e6d1d51d5433}{Martinelli}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=934d64a63cbc09ee80d7f5b71c081e8a}{Siegwart}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=6cfd1ad244855b265531e6d1d51d5433}{Martinelli}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=934d64a63cbc09ee80d7f5b71c081e8a}{Siegwart}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bd8a9856dbec909e505d776f0e2b7227}
+      \strng{fullhash}{bd8a9856dbec909e505d776f0e2b7227}
+      \field{sortinit}{S}
+      \field{labeltitle}{A Flexible Technique for Accurate Omnidirectional Camera Calibration and Structure from Motion}
+      \field{journaltitle}{IEEE International Conference of Vision Systems}
+      \field{title}{A Flexible Technique for Accurate Omnidirectional Camera Calibration and Structure from Motion}
+      \field{year}{2006}
+      \field{pages}{45\bibrangedash 52}
+    \endentry
+    \entry{Scara2006_2}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=6cfd1ad244855b265531e6d1d51d5433}{Martinelli}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=934d64a63cbc09ee80d7f5b71c081e8a}{Siegwart}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0fe012669336367b1cda6c33076ffd37}{Scaramuzza}{S\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=6cfd1ad244855b265531e6d1d51d5433}{Martinelli}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=934d64a63cbc09ee80d7f5b71c081e8a}{Siegwart}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bd8a9856dbec909e505d776f0e2b7227}
+      \strng{fullhash}{bd8a9856dbec909e505d776f0e2b7227}
+      \field{sortinit}{S}
+      \field{labeltitle}{A Toolbox for Easy Calibrating Omnidirectional Cameras}
+      \field{journaltitle}{IEEE International Conference on Intelligent Robots and Systems ({IROS})}
+      \field{title}{A Toolbox for Easy Calibrating Omnidirectional Cameras}
+      \field{year}{2006}
+      \field{pages}{5695\bibrangedash 5701}
+    \endentry
+    \entry{schmidt2012measurement}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=480c9fe271e9923691817afe364b091a}{Schmidt}{S\bibinitperiod}{Val\bibnamedelima E}{V\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=896cd9d859587a3a8f5f36b49d31f35e}{Rzhanov}{R\bibinitperiod}{Yuri}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=480c9fe271e9923691817afe364b091a}{Schmidt}{S\bibinitperiod}{Val\bibnamedelima E}{V\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=896cd9d859587a3a8f5f36b49d31f35e}{Rzhanov}{R\bibinitperiod}{Yuri}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{88212e762f3812e9f48b9fdf3000a00d}
+      \strng{fullhash}{88212e762f3812e9f48b9fdf3000a00d}
+      \field{sortinit}{S}
+      \field{labeltitle}{Measurement of micro-bathymetry with a GOPRO underwater stereo camera pair}
+      \field{booktitle}{Oceans, 2012}
+      \field{title}{Measurement of micro-bathymetry with a GOPRO underwater stereo camera pair}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 6}
+    \endentry
+    \entry{schoenberger2016sfm}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=b34bde55ad95a127db17646db7fa4a65}{Sch\"{o}nberger}{S\bibinitperiod}{Johannes\bibnamedelima Lutz}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=4af0c62bceb93c143845555052179bc8}{Frahm}{F\bibinitperiod}{Jan-Michael}{J\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b34bde55ad95a127db17646db7fa4a65}{Sch\"{o}nberger}{S\bibinitperiod}{Johannes\bibnamedelima Lutz}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=4af0c62bceb93c143845555052179bc8}{Frahm}{F\bibinitperiod}{Jan-Michael}{J\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{34b7cdcbd4554072fa3feae1b9ee41d4}
+      \strng{fullhash}{34b7cdcbd4554072fa3feae1b9ee41d4}
+      \field{sortinit}{S}
+      \field{labeltitle}{Structure-from-Motion Revisited}
+      \field{booktitle}{IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{Structure-from-Motion Revisited}
+      \field{year}{2016}
+    \endentry
+    \entry{Sedlazeck2012}{incollection}{}
+      \name{labelname}{2}{}{%
+        {{hash=69aa32d511274105d6d1290416688f29}{Sedlazeck}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0fc9ef5b790ed9fd5d0c898df0a9fecf}{Koch}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=69aa32d511274105d6d1290416688f29}{Sedlazeck}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=0fc9ef5b790ed9fd5d0c898df0a9fecf}{Koch}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=65cabd2b2609900759b43b30dcbfae24}{Dellaert}{D\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=1f8c42e9ce59cb2b269b24bfd068306b}{Frahm}{F\bibinitperiod}{J.-M.}{J\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2b133e4f0da4792611017cd5bbb99ed8}{Pollefeys}{P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=384bea8359b8a22747b2996319e4b3e5}{Leal-Taix\x{fffd}\x{fffd}}{L\bibinithyphendelim T\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=5d16c134d63f46ec35f3a846476c301f}{Rosenhahn}{R\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{c3b0d37e340415a08e7c49563c92d0f1}
+      \strng{fullhash}{c3b0d37e340415a08e7c49563c92d0f1}
+      \field{sortinit}{S}
+      \field{labeltitle}{Perspective and Non-perspective Camera Models in Underwater Imaging - Overview and Error Analysis}
+      \field{booktitle}{Outdoor and Large-Scale Real-World Scene Analysis}
+      \field{isbn}{978-3-642-34090-1}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Perspective and Non-perspective Camera Models in Underwater Imaging - Overview and Error Analysis}
+      \field{volume}{7474}
+      \field{year}{2012}
+      \field{pages}{212\bibrangedash 242}
+      \verb{doi}
+      \verb 10.1007/978-3-642-34091-8_10
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-642-34091-8_10
+      \endverb
+    \endentry
+    \entry{Servos2013}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=69208f94e3fdb95316ca2979a26f95e1}{Servos}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=832ec63d0fe3e5deb06a618c0c98c205}{Smart}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0c72795a49ac5c5c23ebd3e639ec9e28}{Waslander}{W\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=69208f94e3fdb95316ca2979a26f95e1}{Servos}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=832ec63d0fe3e5deb06a618c0c98c205}{Smart}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0c72795a49ac5c5c23ebd3e639ec9e28}{Waslander}{W\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{882f0df09fe116c7fc012640b25e5cb6}
+      \strng{fullhash}{882f0df09fe116c7fc012640b25e5cb6}
+      \field{sortinit}{S}
+      \field{labeltitle}{{Underwater stereo SLAM with refraction correction}}
+      \field{booktitle}{IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
+      \field{issn}{2153-0858}
+      \field{month}{11}
+      \field{title}{{Underwater stereo SLAM with refraction correction}}
+      \field{year}{2013}
+      \field{pages}{3350\bibrangedash 3355}
+      \verb{doi}
+      \verb 10.1109/IROS.2013.6696833
+      \endverb
+      \keyw{SLAM (robots);autonomous underwater vehicles;calibration;image matching;image reconstruction;image sensors;ray tracing;robot vision;stereo image processing;3D model;block matching algorithm;calibration images;camera;depth map quality;detailed inspection tasks;high quality 3-D reconstructions;image distortions;nonlinear epipolar curves;pixel correspondences;pixel ray tracing;precalculated epipolar curves;refraction correction;refractive model;stereo matching;underwater environments;underwater stereo SLAM;underwater stereo localization and mapping;Cameras;Current measurement;Estimation;Image reconstruction;Simultaneous localization and mapping;Three-dimensional displays}
+    \endentry
+    \entry{ShiTomasi}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=848b5a71fa4fcc26c9cb880cc4396fe3}{Shi}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=271ffcd6427b8b639f6b0caf4c5f59c5}{Tomasi}{T\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=848b5a71fa4fcc26c9cb880cc4396fe3}{Shi}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=271ffcd6427b8b639f6b0caf4c5f59c5}{Tomasi}{T\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{43e860715fb0f11216b74d8acf493cf3}
+      \strng{fullhash}{43e860715fb0f11216b74d8acf493cf3}
+      \field{sortinit}{S}
+      \field{labeltitle}{Good Features to Track}
+      \field{booktitle}{1994 IEEE Conference on Computer Vision and Pattern Recognition (CVPR'94)}
+      \field{title}{Good Features to Track}
+      \field{year}{1994}
+      \field{pages}{593\bibrangedash 600}
+    \endentry
+    \entry{Shkurti2011}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=b4613c9776c9dfb3d504fc8202eb5ea0}{Shkurti}{S\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=cd5a0ad3536aded259814649d95e5336}{Rekleitis}{R\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=bbeb90d35d74857afa6c713c356fb54a}{Dudek}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=b4613c9776c9dfb3d504fc8202eb5ea0}{Shkurti}{S\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=cd5a0ad3536aded259814649d95e5336}{Rekleitis}{R\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=bbeb90d35d74857afa6c713c356fb54a}{Dudek}{D\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {St. J., NF Canada}%
+      }
+      \strng{namehash}{717096bffb0977007cadb128e71d0d69}
+      \strng{fullhash}{717096bffb0977007cadb128e71d0d69}
+      \field{sortinit}{S}
+      \field{labeltitle}{Feature Tracking Evaluation for Pose Estimation in Underwater Environments}
+      \field{booktitle}{Canadian Conference on Computer and Robot Vision}
+      \field{title}{Feature Tracking Evaluation for Pose Estimation in Underwater Environments}
+      \field{year}{2011}
+      \field{pages}{160\bibrangedash 167}
+    \endentry
+    \entry{shortis2015calibration}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d6d5cd74293701fd1fa34462a156d484}{Shortis}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d6d5cd74293701fd1fa34462a156d484}{Shortis}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{d6d5cd74293701fd1fa34462a156d484}
+      \strng{fullhash}{d6d5cd74293701fd1fa34462a156d484}
+      \field{sortinit}{S}
+      \field{labeltitle}{Calibration techniques for accurate measurements by underwater camera systems}
+      \field{journaltitle}{Sensors}
+      \field{number}{12}
+      \field{title}{Calibration techniques for accurate measurements by underwater camera systems}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{30810\bibrangedash 30826}
+    \endentry
+    \entry{snyder2010doppler}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=cf1d3e2cf9a6ffb2c9e5d55019e25823}{Snyder}{S\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=cf1d3e2cf9a6ffb2c9e5d55019e25823}{Snyder}{S\bibinitperiod}{Jeff}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cf1d3e2cf9a6ffb2c9e5d55019e25823}
+      \strng{fullhash}{cf1d3e2cf9a6ffb2c9e5d55019e25823}
+      \field{sortinit}{S}
+      \field{labeltitle}{{Doppler Velocity Log (DVL) navigation for observation-class ROVs}}
+      \field{booktitle}{MTS/IEEE SEATTLE OCEANS}
+      \field{title}{{Doppler Velocity Log (DVL) navigation for observation-class ROVs}}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 9}
+    \endentry
+    \entry{tishchenko_2010}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=a3596a6b5efcae1298654319b0f7b50c}{Tishchenko}{T\bibinitperiod}{Inna}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a3596a6b5efcae1298654319b0f7b50c}{Tishchenko}{T\bibinitperiod}{Inna}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Swiss Federal Institute of Technology, Zurich}%
+      }
+      \strng{namehash}{a3596a6b5efcae1298654319b0f7b50c}
+      \strng{fullhash}{a3596a6b5efcae1298654319b0f7b50c}
+      \field{sortinit}{T}
+      \field{labeltitle}{Surface Reconstruction from Point Clouds}
+      \field{title}{Surface Reconstruction from Point Clouds}
+      \field{type}{Bachelor Thesis}
+      \field{year}{2010}
+    \endentry
+    \entry{Tsai1987}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2692637c52f42ccbaf247dd648d0b8dd}{Tsai}{T\bibinitperiod}{R.\bibnamedelimi Y.}{R\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2692637c52f42ccbaf247dd648d0b8dd}{Tsai}{T\bibinitperiod}{R.\bibnamedelimi Y.}{R\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2692637c52f42ccbaf247dd648d0b8dd}
+      \strng{fullhash}{2692637c52f42ccbaf247dd648d0b8dd}
+      \field{sortinit}{T}
+      \field{labeltitle}{A versatile camera calibration technique for high accuracy 3D machine vision metrology using off-the-shelf TV cameras and lenses}
+      \field{journaltitle}{IEEE J. Robotics Automat.}
+      \field{number}{4}
+      \field{title}{A versatile camera calibration technique for high accuracy 3D machine vision metrology using off-the-shelf TV cameras and lenses}
+      \field{volume}{3}
+      \field{year}{1987}
+      \field{pages}{323\bibrangedash 334}
+    \endentry
+    \entry{weidner2017}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=e08972865b35d2bd991cb8160cdbfe5b}{Weidner}{W\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=03977388af5861f5742b2d0879fbb549}{Rahman}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e0e08f93d26d383009e6aae5a5030ce9}{Quattrini\bibnamedelima Li}{Q\bibinitperiod\bibinitdelim L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=cd5a0ad3536aded259814649d95e5336}{Rekleitis}{R\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e08972865b35d2bd991cb8160cdbfe5b}{Weidner}{W\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=03977388af5861f5742b2d0879fbb549}{Rahman}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e0e08f93d26d383009e6aae5a5030ce9}{Quattrini\bibnamedelima Li}{Q\bibinitperiod\bibinitdelim L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=cd5a0ad3536aded259814649d95e5336}{Rekleitis}{R\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7e65f52b430e6eab599a172ab721f9a6}
+      \strng{fullhash}{156e1a469766b7a442566ba23ac4eba1}
+      \field{sortinit}{W}
+      \field{labeltitle}{Underwater Cave Mapping using Stereo Vision}
+      \field{title}{Underwater Cave Mapping using Stereo Vision}
+      \field{year}{2017}
+    \endentry
+    \entry{White2010}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=96298c4e6fb03e7449f9afa069fc36c1}{White}{W\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bf50576ba2be2c136329140dc3f6cbfb}{Hiranandani}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cc49889bdd293eb0689c4b885089c4c3}{Olstad}{O\bibinitperiod}{C.\bibnamedelimi S.}{C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0843e194c5a178ed53ba88c8affcb897}{Buhagiar}{B\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=01c0e64f4b38fe7fd3e3cd7bd997ea59}{Gambin}{G\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4c09e9b294ea31269e84d316fb14a7e2}{Clark}{C\bibinitperiod}{C.\bibnamedelimi M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=96298c4e6fb03e7449f9afa069fc36c1}{White}{W\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bf50576ba2be2c136329140dc3f6cbfb}{Hiranandani}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cc49889bdd293eb0689c4b885089c4c3}{Olstad}{O\bibinitperiod}{C.\bibnamedelimi S.}{C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=0843e194c5a178ed53ba88c8affcb897}{Buhagiar}{B\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=01c0e64f4b38fe7fd3e3cd7bd997ea59}{Gambin}{G\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4c09e9b294ea31269e84d316fb14a7e2}{Clark}{C\bibinitperiod}{C.\bibnamedelimi M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d205ba4da407f2f2942704805d99a418}
+      \strng{fullhash}{a60e60e2f62ca30d4d4962ca5e100971}
+      \field{sortinit}{W}
+      \field{labeltitle}{The {Malta} cistern mapping project: Underwater robot mapping and localization within ancient tunnel systems}
+      \field{journaltitle}{Journal of Field Robotics}
+      \field{number}{4}
+      \field{title}{The {Malta} cistern mapping project: Underwater robot mapping and localization within ancient tunnel systems}
+      \field{volume}{27}
+      \field{year}{2010}
+      \field{pages}{399 411}
+    \endentry
+    \entry{RekleitisOceans2016}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=152da427b4b46b06285c920f2a579d09}{Xanthidis}{X\bibinitperiod}{Marios}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f73deffabdfcc414707f50aee8216fe9}{Li}{L\bibinitperiod}{Alberto\bibnamedelima Quattrini}{A\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
+        {{hash=b47c2dc8dc3c61fadae36fa40955b725}{Rekleitis}{R\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=152da427b4b46b06285c920f2a579d09}{Xanthidis}{X\bibinitperiod}{Marios}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f73deffabdfcc414707f50aee8216fe9}{Li}{L\bibinitperiod}{Alberto\bibnamedelima Quattrini}{A\bibinitperiod\bibinitdelim Q\bibinitperiod}{}{}{}{}}%
+        {{hash=b47c2dc8dc3c61fadae36fa40955b725}{Rekleitis}{R\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Shanghai, China}%
+      }
+      \strng{namehash}{c85c38c76451ac24887a52824e84c20f}
+      \strng{fullhash}{c85c38c76451ac24887a52824e84c20f}
+      \field{sortinit}{X}
+      \field{labeltitle}{Shallow Coral Reef Surveying by Inexpensive Drifters}
+      \field{booktitle}{MTS/IEEE Oceans}
+      \field{month}{04}
+      \field{title}{Shallow Coral Reef Surveying by Inexpensive Drifters}
+      \field{year}{2016}
+    \endentry
+    \entry{ZexuanReports2016}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=dffdb3625b1ca807c59a560ab5c46766}{Xu}{X\bibinitperiod}{Zexuan}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=48c5060b9f77caa1758505c544abbada}{Bassett}{B\bibinitperiod}{Seth\bibnamedelima Willis}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a7e218b0f81ee2117192c9cb8a5e6945}{Hu}{H\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=fecd3f040e606c52c1b7fe5f923efafa}{Dyer}{D\bibinitperiod}{Scott\bibnamedelima Barrett}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=dffdb3625b1ca807c59a560ab5c46766}{Xu}{X\bibinitperiod}{Zexuan}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=48c5060b9f77caa1758505c544abbada}{Bassett}{B\bibinitperiod}{Seth\bibnamedelima Willis}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=a7e218b0f81ee2117192c9cb8a5e6945}{Hu}{H\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=fecd3f040e606c52c1b7fe5f923efafa}{Dyer}{D\bibinitperiod}{Scott\bibnamedelima Barrett}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f211f43cb5f8d4129ccd32acb412bc5}
+      \strng{fullhash}{431a39fc351a5fac75c648f4730998ad}
+      \field{sortinit}{X}
+      \field{labeltitle}{Long distance seawater intrusion through a karst conduit network in the Woodville Karst Plain, Florida}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{08}
+      \field{title}{Long distance seawater intrusion through a karst conduit network in the Woodville Karst Plain, Florida}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 10}
+    \endentry
+    \entry{Zhang2000}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7969b27c3036c48b4c828e3e7465cebb}{Zhang}{Z\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7969b27c3036c48b4c828e3e7465cebb}{Zhang}{Z\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7969b27c3036c48b4c828e3e7465cebb}
+      \strng{fullhash}{7969b27c3036c48b4c828e3e7465cebb}
+      \field{sortinit}{Z}
+      \field{labeltitle}{A flexible new technique for camera calibration	}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{11}
+      \field{title}{A flexible new technique for camera calibration	}
+      \field{volume}{22}
+      \field{year}{2000}
+      \field{pages}{1330\bibrangedash 1334}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -1,0 +1,124 @@
+\section{Theory}\label{sec:callibtheory}
+The pin hole camera model is the simplest model for how a camera works and is used as the basis for modern implementations of camera calibration. With this model, intrinsic and extrinsic camera parameters define the transformation between 3D world coordinates and 2D image coordinates. The intrinsic parameters
+disregard the position and orientation of the camera and define such parameters as the focal length, principal point, and aspect ratio. Extrinsic parameters define the pose between object frame and camera frame in terms of rotation and translation. The full model to get the pixel coordinates ($u$, $v$) of a point in the world $(X, Y, Z)$, including intrinsic and extrinsic parameters, is 
+%
+\begin{equation}
+\lambda 
+\left[\begin{array}{c} u \\ v \\ 1 \end{array} \right]
+=
+\begin{bmatrix}
+f_x & 0 & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1
+\end{bmatrix}
+\begin{bmatrix}
+r_{11} & r_{12} & r_{13} & t_1 \\ r_{21} & r_{22} & r_{23} & t_2 \\ r_{31} & r_{32} & r_{33} & t_3
+\end{bmatrix}
+\left[\begin{array}{c} X \\ Y \\ Z \\ 1 \end{array} \right]
+\end{equation}
+%
+where $\lambda$ defines the scale, $u$ and $v$ describe the coordinates of the newly projected image pixel point, $f_{x}$ and $f_{y}$ describe the focal length values in pixels over width and height of the camera sensor, $c_{x}$ and $c_{y}$ describe the principal point coordinates in pixels, $r_{ij}$ represent the elements of the extrinsic rotation matrix, $t_i$ represent the elements of the extrinsic translation matrix, and $X$, $Y$, and $Z$ are the 3D coordinates in the world reference frame. The extrinsic matrix is what translates 3D coordinates $X$, $Y$, and $Z$ to new coordinates $X_{new}$, $Y_{new}$, and $Z_{new}$ in the camera reference frame. This transformation equates to
+%
+\begin{equation}
+\left[\begin{array}{c} X_{new} \\ Y_{new} \\ Z_{new} \end{array} \right]
+=
+R
+\left[\begin{array}{c} X \\ Y \\ Z \end{array} \right]
++ t
+\end{equation}
+%\[
+%u=\dfrac{f_{x}*X}{Z}+c_{x}
+%\]
+%\[
+%v=\dfrac{f_{y}*X}{Z}+c_{y}
+%\]
+%
+Then, using triangle equivalence, assuming a unit distance between the Center of Projection where all the ray lights project in the camera and the image plane, the pixel $X_{new}'$ and $Y_{new}'$ in normalized image coordinates can be determined as follows, :
+%
+\begin{equation}
+X_{new}'=X_{new}/Z_{new}
+\end{equation}
+\begin{equation}
+Y_{new}'=Y_{new}/Z_{new}
+\end{equation}
+Taking into account the intrinsics parameters of the camera, we can then find the projected $u$ and $v$ pixel coordinates on the actual image plane: 
+\begin{equation}
+u=f_{x}*X_{new}'+c_{x} 
+\end{equation}
+\begin{equation}
+v=f_{y}*Y_{new}'+c_{y}
+\end{equation}
+
+When actual cameras are examined, calibration must take into account the distortion resulting from the lens. Distortion is separated between radial and tangential distortion. Radial distortion is caused by the light bending near the edges of the lens. MATLAB defines the distortion along the $x$ (columns) and $y$ (rows) coordinates of the camera as: 
+%
+\begin{equation}
+x_{r\textit{distortion}} = X_{new}'(1+k_{1}r^{2}+k_{2}r^{4}+k_{3}r^{6})
+\end{equation}
+\begin{equation}
+y_{r\textit{distortion}} = Y_{new}'(1+k_{1}r^{2}+k_{2}r^{4}+k_{3}r^{6})
+\end{equation}
+%
+where $k_{i}$ are the radial distortion coefficients and $r^{2} = X_{new}'^{2}+Y_{new}'^{2}$. Tangential distortion is the result of the lens unparallel to the camera sensor plane. MATLAB defines the $x$ and $y$ of this distortion as 
+%
+\begin{equation}
+x_{t\textit{distortion}} = [2*p_{1}*X_{new}*Y_{new}+p_{2}*(r^{2}+2*X_{new}'^{2})]
+\end{equation}
+\begin{equation}
+y_{t\textit{distortion}} = [p_{1}*(r^{2}+2*Y_{new}'^{2})+2*p_{2}*X_{new}'*Y_{new}']
+\end{equation}
+% 
+where the $p_j$ are the tangential distortion coefficients and $r^{2} = X_{new}'^{2}+Y_{new}'^{2}$. 
+%
+These distortions can be introduced into the perspective projection as
+
+\begin{equation}
+u=f_{x}*X_{new}'*(x_{r\textit{distortion}}+x_{t\textit{distortion}})+c_{x}
+\end{equation}
+\begin{equation}
+v=f_{y}*Y_{new}'*(y_{r\textit{distortion}}+y_{t\textit{distortion}})+c_{y}
+\end{equation}
+resulting in the pixel coordinates $u$ and $v$ in the image plane.
+%\[
+%or
+%\]
+% OpenCV also includes the implementation of a fish eye camera model for more extreme radial distortions. In this model a $\theta$ is introduced as $\theta=\arctan(r)$. This is then used to define a fisheye distortion of the scene as
+% %
+% \[
+% \theta_{distortion}=\theta(1+k_{1}\theta^{2}+k_{2}\theta^{4}+\theta_{3}r^{6})
+% \]
+% These distortions can be introduced into the perspective projection as
+% \[
+% u=\dfrac{f_{x}*x*\theta_{\textit{distortion}}}{z*r}+c_{x}
+% \]
+% \[
+% v=\dfrac{f_{y}*y*\theta_{\textit{distortion}}}{z}+c_{y}
+% \]
+
+
+Using known world coordinates and identifying how the camera transforms points in a 2D image, the intrinsic $[f_x,f_y,c_x,c_y]$ and extrinsic $[R|t]$ parameters can be calculated, where $R$ and $t$ are the matrix and vector that represents the rotation with elements $r_{ij}$ and the translation with elements $t_i$. Testing the accuracy of the resulting model is done by reprojecting the points backwards through the model and identifying how close the points lie to where they were originally. The average distance these points are off from where they should be is the reprojection error and is used to identify how good the model is. Reprojection error measures pixel units and ideal models should minimize reprojection error as much as possible.
+
+Once the error is as an acceptable level---typically below 1 pixel---the images can be undistorted using the calibration parameters. Because the intrinsic parameters have nothing to do with the image scene, they can be used to undistort any collection of images taken with the same camera. If the domain changes, for example the camera is moved from above water to underwater, the distortion coefficients will no longer accurately represent the image distortion. Because of this, the camera needs to be calibrated for both underwater and on above water  undistortion. While theoretically the introduction of a water distortion model could eliminate the need for calibrating directly underwater, practically this was found unnecessary. 
+
+While this describes the process of monocular camera calibration, in a stereo system there is also the step of rectification. Rectified images are undistorted images with an additional rotation applied in order to make the epipolar lines of the image parallel. They also use an altered projection matrix that shifts the images apart by a distance described by the baseline of the cameras. The baseline is the distance between the optical centers of each camera. In a horizontal stereo setting, matching epipolar lines in each camera would have identical $y$ coordinates. The new rectified projection matrices in a horizontal stereo system are
+%
+\begin{equation}
+P1 =
+\begin{bmatrix}
+f_x & 0 & c_{x1} & 0\\ 0 & f_y & c_y & 0\\ 0 & 0 & 1 & 0
+\end{bmatrix}
+\end{equation}
+\begin{equation}
+P2 =
+\begin{bmatrix}
+f_x & 0 & c_{x2} & T_x * f_x\\ 0 & f_y & c_y & 0\\ 0 & 0 & 1 & 0
+\end{bmatrix}
+\end{equation}
+%
+where $T_x$ is the horizontal shift amount. The rectified $u'$ and $v'$ coordinates can again be defined as 
+%
+\begin{equation}
+u'=P1*R*P1^{-1}*u
+\end{equation}
+\begin{equation}
+v'=P2*R*P2^{-1}*v
+\end{equation}
+%
+and the rotation matrix $R$ is defined so the epipolar lines along both images are now parallel. This is a vital step in any kind of reconstruction work, because it allows a matching algorithm to reduce the search space to find the distance between matching features in stereo image sets; the output can then be used for the triangulation of 3D world points using such a distance, also called disparity.

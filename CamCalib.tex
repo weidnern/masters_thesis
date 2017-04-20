@@ -1,0 +1,14 @@
+\chapter{Camera Calibration}\label{chap:camcalib}
+\section{Overview}\label{sec:caliboverview}
+Camera calibration of the data acquisition cameras is a fundamental first step in achieving accurately scaled reconstructions. It is a highly studied and in common setups a solved problem. While much of the research of the community has passed the calibration phase, it is still the fundamental first step in a number of vision based research topics. Accurate calibration models and properly undistorted images are a necessity for any kind of accurate depth measurements, 3D reconstructions, or robotic navigation through a physical space via imaging. Good calibration relies on good input image data and sometimes this can be difficult to obtain. Cameras without digital screens make it impossible to view images or video until connected to a computer. This can make it difficult to validate the calibration set up while gathering input. In the underwater domain, cameras that lack this feature make data validation much more tedious and time consuming as the cameras must be removed from the water and connected to an external machine. If the data is being recorded in the field without additional equipment, it may be impossible to view the images or footage until data collection is complete. This can be even more problematic for stereo calibration systems where it is important that both cameras record the required information. As such, identifying the subset of collected data that results in the best calibration model is an important step in the calibration process.  
+
+With such factors as affordability, durability, and quality becoming commonplace for the camera market, the use of cameras in research has grown. One popular brand is GoPro which develops small, durable, high resolution action cameras. GoPro cameras can be used in a number of domains including above and below water and on a number of different applications such as building reconstruction or ocean floor mapping. While the popularity of these cameras has increased, they are susceptible to some of the challenges in collecting good calibration data. Most GoPro models lack a screen for viewing images and footage during and after capture making it hard to position the camera in the scene. Part of this problem has been fixed with the introduction of new Bluetooth and smart phone features, but wireless communication is severely limited in the underwater domain. In the case of this work, there was a need to accurately undistort footage obtained using GoPro's SuperView capture mode. This mode causes severe distortion along the edge of the frame which some calibration tools have trouble overcoming. 
+
+\begin{figure}[t]
+	\centering
+	\fbox{\includegraphics[width=0.75\textwidth]{./figures/right-0006.png}}
+	\caption{An underwater image of a waterproof calibration checkerboard pattern used for camera calibration.}
+	\label{fig:beauty}
+\end{figure}
+
+\input{CalibRelWork}

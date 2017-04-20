@@ -1,0 +1,5 @@
+\chapter{Stereo Shape Estimation}\label{chap:pcrecon}
+\section{Overview}\label{sec:pcoverview}
+Camera calibration was an important step in our overall pipeline of underwater cave reconstruction, because without it we could not accurately project 2\hyp D image points into 3\hyp D space. The footage for all of our tests were taken using a GoPro in SuperView mode, so this calibration problem needed to be addressed. With calibration out of the way, we now shift focus to the generation of a geometrically accurate point cloud using stereo footage collected in an underwater cave. The presented approach utilizes the presence of the artificial lighting to produce a rough model of the traversed area. In particular, the video\hyp light cone is used to identify the  walls of the cave from a single stereo pair. Furthermore, motion between consecutive stereo pairs is estimated and the 3\hyp D reconstruction is utilized to produce an approximate volumetric map of the cave.
+
+\input{PCRelWork}
